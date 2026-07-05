@@ -16,8 +16,8 @@
 
 <table width="100%">
 <tr>
-<td valign="middle" align="center" width="160"><b>Chapter 01</b></td>
-<td valign="middle">중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사<img width="1200" height="0" alt="" /></td>
+<td valign="middle" align="center" width="160"><b>Chapter 01</b><img width="1200" height="0" alt="" /></td>
+<td valign="middle">중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사</td>
 </tr>
 <tr>
 <td valign="middle" align="center" width="160"><b>Chapter 02</b></td>
@@ -41,9 +41,9 @@
 
 <table width="100%">
 <tr>
-<td valign="middle" align="center" width="160"><b>Email</b></td>
+<td valign="middle" align="center" width="160"><b>Email</b><img width="1200" height="0" alt="" /></td>
 <td valign="middle">
-<span>houndscorporation<!-- -->@<!-- -->gmail.com</span><img width="1200" height="0" alt="" />
+<span>houndscorporation<!-- -->@<!-- -->gmail.com</span>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@
 
 <table width="100%">
 <tr>
-<td valign="middle" align="center" width="160"><b>Languages</b></td>
+<td valign="middle" align="center" width="160"><b>Languages</b><img width="1200" height="0" alt="" /></td>
 <td valign="middle">
 <picture><img src="./assets/badges/java.svg" alt="Java"/></picture>
 <picture><img src="./assets/badges/typescript.svg" alt="TypeScript"/></picture>
@@ -68,7 +68,7 @@
 <picture><img src="./assets/badges/c.svg" alt="C"/></picture>
 <picture><img src="./assets/badges/dart.svg" alt="Dart"/></picture>
 <picture><img src="./assets/badges/html5.svg" alt="HTML5"/></picture>
-<picture><img src="./assets/badges/css3.svg" alt="CSS3"/></picture><img width="1200" height="0" alt="" />
+<picture><img src="./assets/badges/css3.svg" alt="CSS3"/></picture>
 </td>
 </tr>
 <tr>
@@ -164,8 +164,8 @@
 
 <table width="100%">
 <tr>
-<td valign="middle" align="center" width="160"><b>Project 01</b></td>
-<td valign="middle">—<img width="1200" height="0" alt="" /></td>
+<td valign="middle" align="center" width="160"><b>Project 01</b><img width="1200" height="0" alt="" /></td>
+<td valign="middle">—</td>
 </tr>
 <tr>
 <td valign="middle" align="center" width="160"><b>Project 02</b></td>
