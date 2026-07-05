@@ -173,7 +173,7 @@
 
 <div align="center">
   <picture><img src="./profile/stats.svg?v=1" alt="GitHub Stats" /></picture>
-  <picture><img src="./profile/top-langs.svg?v=3" alt="Top Languages" /></picture>
+  <picture><img src="./profile/top-langs.svg?v=4" alt="Top Languages" /></picture>
 </div>
 
 <div align="center">
