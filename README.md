@@ -175,3 +175,7 @@
   <picture><img src="./profile/stats.svg" alt="GitHub Stats" /></picture>
   <picture><img src="./profile/top-langs.svg" alt="Top Languages" /></picture>
 </div>
+
+<div align="center">
+  <sub>GitHub since 2020.07.03</sub>
+</div>
