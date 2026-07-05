@@ -35,6 +35,7 @@
 </table>
 </div>
 
+<br>
 
 ## 🤝 Connect
 
@@ -42,6 +43,7 @@
   <a href="https://www.instagram.com/harryharry.kim/"><img src="./assets/badges/contact-instagram.png?v=3" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/"><img src="./assets/badges/contact-tistory.png?v=3" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/"><img src="./assets/badges/contact-linkedin.png?v=3" alt="LinkedIn"/></a>
 </p>
 
+<br>
 
 ## 🚀 Projects
 
@@ -61,6 +63,7 @@
 </tr>
 </table>
 
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -141,6 +144,7 @@
 <picture><img src="./assets/badges/roberta.png?v=2" alt="RoBERTa"/></picture>
 <picture><img src="./assets/badges/huggingface.png?v=2" alt="Hugging Face"/></picture>
 
+<br>
 
 ## 📊 GitHub Stats
 
@@ -149,6 +153,7 @@
   <picture><img src="./profile/top-langs.svg?v=5" alt="Top Languages" /></picture>
 </div>
 
+<br>
 
 <div align="center">
   <picture><img src="./assets/footer.png" alt="GitHub journey started 2026.02.23" /></picture>
