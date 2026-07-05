@@ -172,10 +172,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyeonseok93&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyeonseok93&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonseok93&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="Top Languages" />
+  <picture><img src="./profile/stats.svg" alt="GitHub Stats" /></picture>
+  <picture><img src="./profile/top-langs.svg" alt="Top Languages" /></picture>
 </div>
