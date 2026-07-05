@@ -7,6 +7,21 @@
 
 <div align="center">
 
+## 📫 Contact Me
+
+<a href="mailto:houndscorporation@gmail.com">
+  <img src="./assets/badges/contact-email.svg" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/harryharry.kim/">
+  <img src="./assets/badges/contact-instagram.svg" alt="Instagram"/>
+</a>
+<a href="https://bulldog93.tistory.com/">
+  <img src="./assets/badges/contact-tistory.svg" alt="Tistory"/>
+</a>
+<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/">
+  <img src="./assets/badges/contact-linkedin.svg" alt="LinkedIn"/>
+</a>
+
 ## 🛠 Tech Stack
 
 <table>
