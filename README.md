@@ -10,29 +10,13 @@
 
 ## 👤 About Me
 
-<table width="100%">
-<tr><td colspan="2" height="0"><img width="1200" height="0" alt="" /></td></tr>
-<tr>
-<td valign="middle" align="center" width="160"><b>Chapter 01</b></td>
-<td valign="middle">중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사</td>
-</tr>
-<tr>
-<td valign="middle" align="center" width="160"><b>Chapter 02</b></td>
-<td valign="middle">부상 후 영어영문학 대학원 · 미국(Antelope Valley College) 유학</td>
-</tr>
-<tr>
-<td valign="middle" align="center" width="160"><b>Chapter 03</b></td>
-<td valign="middle">공군 정비창 인사장교 — 계획 운영 · 동원 · 기밀 생산·관리 · 인사 · 행정</td>
-</tr>
-<tr>
-<td valign="middle" align="center" width="160"><b>Chapter 04</b></td>
-<td valign="middle">한양사이버대 해킹보안학과 · 부경대 정보보호 석사</td>
-</tr>
-<tr>
-<td valign="middle" align="center" width="160"><b>Chapter 05</b></td>
-<td valign="middle"><b>Now</b> — SK 쉴더스 루키즈 5기, 지능형 애플리케이션 개발자 양성과정</td>
-</tr>
-</table>
+<ul>
+<li><b>CHAPTER 01</b> : 중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사</li>
+<li><b>CHAPTER 02</b> : 부상 후 영어영문학 대학원 · 미국 커뮤니티 칼리지 유학</li>
+<li><b>CHAPTER 03</b> : 공군 정비창 인사장교</li>
+<li><b>CHAPTER 04</b> : 한양사이버대 해킹보안학과 · 부경대 정보보호 석사</li>
+<li><b>CHAPTER 05</b> : <b>Now</b> — SK 쉴더스 루키즈 5기, 지능형 애플리케이션 개발자 양성과정</li>
+</ul>
 
 <hr>
 
