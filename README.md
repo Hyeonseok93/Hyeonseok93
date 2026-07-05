@@ -14,13 +14,28 @@
 <table>
 <tr><td align="left">
 
-<ul>
-<li><b>CHAPTER 01</b> : 중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사</li>
-<li><b>CHAPTER 02</b> : 부상 후 영어영문학 대학원 · 미국 커뮤니티 칼리지 유학</li>
-<li><b>CHAPTER 03</b> : 공군 정비창 인사장교</li>
-<li><b>CHAPTER 04</b> : 한양사이버대 해킹보안학과 · 부경대 정보보호 석사</li>
-<li><b>CHAPTER 05</b> : <b>Now</b> — SK 쉴더스 루키즈 5기, 지능형 애플리케이션 개발자 양성과정</li>
-</ul>
+<table>
+<tr>
+<td align="center" width="48">🤺</td>
+<td><b>CHAPTER 01</b> : 중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사</td>
+</tr>
+<tr>
+<td align="center">📚</td>
+<td><b>CHAPTER 02</b> : 부상 후 영어영문학 대학원 · 미국 커뮤니티 칼리지 유학</td>
+</tr>
+<tr>
+<td align="center">🎖️</td>
+<td><b>CHAPTER 03</b> : 공군 정비창 인사장교</td>
+</tr>
+<tr>
+<td align="center">🔐</td>
+<td><b>CHAPTER 04</b> : 한양사이버대 해킹보안학과 · 부경대 정보보호 석사</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><b>CHAPTER 05</b> : <b>Now</b> — SK 쉴더스 루키즈 5기, 지능형 애플리케이션 개발자 양성과정</td>
+</tr>
+</table>
 
 </td></tr>
 </table>
@@ -31,7 +46,7 @@
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/contact-instagram.png?v=3" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/contact-tistory.png?v=3" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/contact-linkedin.png?v=3" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/harryharry.kim/"><img src="./assets/badges/contact-instagram.png?v=3" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/"><img src="./assets/badges/contact-tistory.png?v=3" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/"><img src="./assets/badges/contact-linkedin.png?v=3" alt="LinkedIn"/></a>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
