@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<code>houndscorporation@gmail.com</code>
+<code>houndscorporation&#64;gmail.com</code>
 
 </div>
 
@@ -17,7 +17,13 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;margin-right:6px;"><img src="./assets/badges/contact-instagram.svg" alt="Instagram"/></a><a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;margin-right:6px;"><img src="./assets/badges/contact-tistory.svg" alt="Tistory"/></a><a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;"><img src="./assets/badges/contact-linkedin.svg" alt="LinkedIn"/></a>
+<table border="0" cellpadding="0" cellspacing="0" style="border:none;border-collapse:separate;border-spacing:8px;margin:0 auto;">
+<tr>
+<td style="border:none;padding:0;"><a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-instagram.svg" alt="Instagram"/></a></td>
+<td style="border:none;padding:0;"><a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-tistory.svg" alt="Tistory"/></a></td>
+<td style="border:none;padding:0;"><a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-linkedin.svg" alt="LinkedIn"/></a></td>
+</tr>
+</table>
 
 </div>
 
