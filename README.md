@@ -55,11 +55,16 @@
 </td>
 </tr>
 <tr>
-<td valign="middle" align="right"><b>Database & DevOps</b></td>
+<td valign="middle" align="right"><b>Database</b></td>
 <td valign="middle">
 <img src="./assets/badges/postgresql.svg" alt="PostgreSQL"/>
 <img src="./assets/badges/mariadb.svg" alt="MariaDB"/>
 <img src="./assets/badges/redis.svg" alt="Redis"/>
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><b>DevOps</b></td>
+<td valign="middle">
 <img src="./assets/badges/docker.svg" alt="Docker"/>
 <img src="./assets/badges/nginx.svg" alt="Nginx"/>
 <img src="./assets/badges/terraform.svg" alt="Terraform"/>
