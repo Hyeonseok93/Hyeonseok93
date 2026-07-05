@@ -5,6 +5,10 @@
 > **Chewing and tearing through bugs, growing while having fun.** Welcome to the Bulldog's House! 🐶  
 > **버그 씹고 뜯으며 놀면서 성장 중인 불독의 집에 오신것을 환영합니다**
 
+<div align="center">
+  <img style="pointer-events:none;cursor:default;" src="./assets/greeting.gif" alt="Greeting" />
+</div>
+
 ## Email
 
 <div align="center">
