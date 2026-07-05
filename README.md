@@ -145,7 +145,5 @@
 <hr>
 
 <div align="center">
-
-<h3 align="center">GitHub journey started 2026.02.23</h3>
-
+  <picture><img src="./assets/footer.png" alt="GitHub journey started 2026.02.23" /></picture>
 </div>
