@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/harryharry.kim/" style="text-decoration:none;display:inline-block;margin-right:2px;"><img src="./assets/badges/contact-instagram.svg" alt="Instagram"/></a><a href="https://bulldog93.tistory.com/" style="text-decoration:none;display:inline-block;margin-right:2px;"><img src="./assets/badges/contact-tistory.svg" alt="Tistory"/></a><a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" style="text-decoration:none;display:inline-block;"><img src="./assets/badges/contact-linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;margin-right:6px;"><img src="./assets/badges/contact-instagram.svg" alt="Instagram"/></a><a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;margin-right:6px;"><img src="./assets/badges/contact-tistory.svg" alt="Tistory"/></a><a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;"><img src="./assets/badges/contact-linkedin.svg" alt="LinkedIn"/></a>
 
 </div>
 
