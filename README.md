@@ -7,6 +7,7 @@
 </div>
 
 <br>
+<br>
 
 > **Chewing and tearing through bugs, growing while having fun.** Welcome to the Bulldog's House! 🐶  
 > **버그 씹고 뜯으며 놀면서 성장 중인 불독의 집에 오신것을 환영합니다**
@@ -23,7 +24,7 @@
 <tr>
 <td valign="middle" align="right"><b>Connect</b></td>
 <td valign="middle">
-<a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-instagram.svg?v=2" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-tistory.svg?v=2" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-linkedin.svg?v=2" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-instagram.svg?v=3" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-tistory.svg?v=3" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-linkedin.svg?v=3" alt="LinkedIn"/></a>
 </td>
 </tr>
 </table>
