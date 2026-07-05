@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png?v=2" width="100%" alt="Hyeonseok's Github" />
+  <img style="pointer-events:none;cursor:default;" src="./assets/banner.png?v=2" width="100%" alt="Hyeonseok's Github" />
 </div>
 
 > **Chewing and tearing through bugs, growing while having fun.** Welcome to the Bulldog's House! 🐶  
@@ -27,94 +27,94 @@
 <tr>
 <td valign="middle" align="right" width="160"><b>Languages</b></td>
 <td valign="middle">
-<img src="./assets/badges/java.svg" alt="Java"/>
-<img src="./assets/badges/typescript.svg" alt="TypeScript"/>
-<img src="./assets/badges/python.svg" alt="Python"/>
-<img src="./assets/badges/javascript.svg" alt="JavaScript"/>
-<img src="./assets/badges/c.svg" alt="C"/>
-<img src="./assets/badges/dart.svg" alt="Dart"/>
-<img src="./assets/badges/html5.svg" alt="HTML5"/>
-<img src="./assets/badges/css3.svg" alt="CSS3"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/java.svg" alt="Java"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/typescript.svg" alt="TypeScript"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/python.svg" alt="Python"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/javascript.svg" alt="JavaScript"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/c.svg" alt="C"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/dart.svg" alt="Dart"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/html5.svg" alt="HTML5"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/css3.svg" alt="CSS3"/>
 </td>
 </tr>
 <tr>
 <td valign="middle" align="right"><b>Frontend</b></td>
 <td valign="middle">
-<img src="./assets/badges/react.svg" alt="React"/>
-<img src="./assets/badges/vite.svg" alt="Vite"/>
-<img src="./assets/badges/tailwindcss.svg" alt="Tailwind CSS"/>
-<img src="./assets/badges/mui.svg" alt="Material UI"/>
-<img src="./assets/badges/tanstackquery.svg" alt="TanStack Query"/>
-<img src="./assets/badges/zustand.svg" alt="Zustand"/>
-<img src="./assets/badges/zod.svg" alt="Zod"/>
-<img src="./assets/badges/reacthookform.svg" alt="React Hook Form"/>
-<img src="./assets/badges/recharts.svg" alt="Recharts"/>
-<img src="./assets/badges/axios.svg" alt="Axios"/>
-<img src="./assets/badges/reactrouter.svg" alt="React Router"/>
-<img src="./assets/badges/flutter.svg" alt="Flutter"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/react.svg" alt="React"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/vite.svg" alt="Vite"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/tailwindcss.svg" alt="Tailwind CSS"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/mui.svg" alt="Material UI"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/tanstackquery.svg" alt="TanStack Query"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/zustand.svg" alt="Zustand"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/zod.svg" alt="Zod"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/reacthookform.svg" alt="React Hook Form"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/recharts.svg" alt="Recharts"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/axios.svg" alt="Axios"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/reactrouter.svg" alt="React Router"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/flutter.svg" alt="Flutter"/>
 </td>
 </tr>
 <tr>
 <td valign="middle" align="right"><b>Backend</b></td>
 <td valign="middle">
-<img src="./assets/badges/springboot.svg" alt="Spring Boot"/>
-<img src="./assets/badges/springsecurity.svg" alt="Spring Security"/>
-<img src="./assets/badges/jwt.svg" alt="JWT"/>
-<img src="./assets/badges/gradle.svg" alt="Gradle"/>
-<img src="./assets/badges/maven.svg" alt="Maven"/>
-<img src="./assets/badges/flyway.svg" alt="Flyway"/>
-<img src="./assets/badges/sqlalchemy.svg" alt="SQLAlchemy"/>
-<img src="./assets/badges/fastapi.svg" alt="FastAPI"/>
-<img src="./assets/badges/openapi.svg" alt="OpenAPI"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/springboot.svg" alt="Spring Boot"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/springsecurity.svg" alt="Spring Security"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/jwt.svg" alt="JWT"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/gradle.svg" alt="Gradle"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/maven.svg" alt="Maven"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/flyway.svg" alt="Flyway"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/sqlalchemy.svg" alt="SQLAlchemy"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/fastapi.svg" alt="FastAPI"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/openapi.svg" alt="OpenAPI"/>
 </td>
 </tr>
 <tr>
 <td valign="middle" align="right"><b>Database</b></td>
 <td valign="middle">
-<img src="./assets/badges/postgresql.svg" alt="PostgreSQL"/>
-<img src="./assets/badges/mariadb.svg" alt="MariaDB"/>
-<img src="./assets/badges/redis.svg" alt="Redis"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/postgresql.svg" alt="PostgreSQL"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/mariadb.svg" alt="MariaDB"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/redis.svg" alt="Redis"/>
 </td>
 </tr>
 <tr>
 <td valign="middle" align="right"><b>DevOps</b></td>
 <td valign="middle">
-<img src="./assets/badges/docker.svg" alt="Docker"/>
-<img src="./assets/badges/nginx.svg" alt="Nginx"/>
-<img src="./assets/badges/terraform.svg" alt="Terraform"/>
-<img src="./assets/badges/githubactions.svg" alt="GitHub Actions"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/docker.svg" alt="Docker"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/nginx.svg" alt="Nginx"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/terraform.svg" alt="Terraform"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/githubactions.svg" alt="GitHub Actions"/>
 </td>
 </tr>
 <tr>
 <td valign="middle" align="right"><b>Data Science</b></td>
 <td valign="middle">
-<img src="./assets/badges/pandas.svg" alt="Pandas"/>
-<img src="./assets/badges/plotly.svg" alt="Plotly"/>
-<img src="./assets/badges/jupyter.svg" alt="Jupyter"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/pandas.svg" alt="Pandas"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/plotly.svg" alt="Plotly"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/jupyter.svg" alt="Jupyter"/>
 </td>
 </tr>
 <tr>
 <td valign="middle" align="right"><b>Tools & Testing</b></td>
 <td valign="middle">
-<img src="./assets/badges/streamlit.svg" alt="Streamlit"/>
-<img src="./assets/badges/selenium.svg" alt="Selenium"/>
-<img src="./assets/badges/playwright.svg" alt="Playwright"/>
-<img src="./assets/badges/beautifulsoup.svg" alt="BeautifulSoup"/>
-<img src="./assets/badges/vitest.svg" alt="Vitest"/>
-<img src="./assets/badges/qt.svg" alt="Qt"/>
-<img src="./assets/badges/opencv.svg" alt="OpenCV"/>
-<img src="./assets/badges/pyinstaller.svg" alt="PyInstaller"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/streamlit.svg" alt="Streamlit"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/selenium.svg" alt="Selenium"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/playwright.svg" alt="Playwright"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/beautifulsoup.svg" alt="BeautifulSoup"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/vitest.svg" alt="Vitest"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/qt.svg" alt="Qt"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/opencv.svg" alt="OpenCV"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/pyinstaller.svg" alt="PyInstaller"/>
 </td>
 </tr>
 <tr>
 <td valign="middle" align="right"><b>AI</b></td>
 <td valign="middle">
-<img src="./assets/badges/groq.svg" alt="Groq"/>
-<img src="./assets/badges/gemini.svg" alt="Gemini"/>
-<img src="./assets/badges/antigravity.svg" alt="Antigravity"/>
-<img src="./assets/badges/cursor.svg" alt="Cursor AI"/>
-<img src="./assets/badges/roberta.svg" alt="RoBERTa"/>
-<img src="./assets/badges/huggingface.svg" alt="Hugging Face"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/groq.svg" alt="Groq"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/gemini.svg" alt="Gemini"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/antigravity.svg" alt="Antigravity"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/cursor.svg" alt="Cursor AI"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/roberta.svg" alt="RoBERTa"/>
+<img style="pointer-events:none;cursor:default;" src="./assets/badges/huggingface.svg" alt="Hugging Face"/>
 </td>
 </tr>
 </table>
