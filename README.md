@@ -10,6 +10,10 @@
 
 ## 👤 About Me
 
+<div align="center">
+<table>
+<tr><td align="left">
+
 <ul>
 <li><b>CHAPTER 01</b> : 중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사</li>
 <li><b>CHAPTER 02</b> : 부상 후 영어영문학 대학원 · 미국 커뮤니티 칼리지 유학</li>
@@ -17,6 +21,10 @@
 <li><b>CHAPTER 04</b> : 한양사이버대 해킹보안학과 · 부경대 정보보호 석사</li>
 <li><b>CHAPTER 05</b> : <b>Now</b> — SK 쉴더스 루키즈 5기, 지능형 애플리케이션 개발자 양성과정</li>
 </ul>
+
+</td></tr>
+</table>
+</div>
 
 <hr>
 
@@ -138,6 +146,6 @@
 
 <div align="center">
 
-<h2 align="center">GitHub journey started 2026.02.23</h2>
+<h3 align="center">GitHub journey started 2026.02.23</h3>
 
 </div>
