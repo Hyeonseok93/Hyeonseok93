@@ -3,15 +3,20 @@
 </div>
 
 **Chewing and tearing through bugs, growing while having fun.** Welcome to the Bulldog's House! 🐶  
-**버그 씹고 뜯으며 놀면서 성장 중인 불독의 집에 오신것을 환영합니다** 🐶
+**버그 씹고 뜯으며 놀면서 성장 중인 불독의 집에 오신것을 환영합니다**
+
+## Email
 
 <div align="center">
 
-## 📫 Contact Me
+<img src="./assets/badges/contact-email.svg" alt="houndscorporation@gmail.com"/>
 
-<a href="mailto:houndscorporation@gmail.com">
-  <img src="./assets/badges/contact-email.svg" alt="Email"/>
-</a>
+</div>
+
+## Connect
+
+<div align="center">
+
 <a href="https://www.instagram.com/harryharry.kim/">
   <img src="./assets/badges/contact-instagram.svg" alt="Instagram"/>
 </a>
@@ -22,7 +27,9 @@
   <img src="./assets/badges/contact-linkedin.svg" alt="LinkedIn"/>
 </a>
 
-## 🛠 Tech Stack
+</div>
+
+## Tech Stack
 
 <table>
 <tr>
@@ -119,5 +126,3 @@
 </td>
 </tr>
 </table>
-
-</div>
