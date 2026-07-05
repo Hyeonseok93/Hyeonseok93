@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="pointer-events:none;cursor:default;" src="./assets/banner.png?v=2" width="100%" alt="Hyeonseok's Github" />
+  <img style="pointer-events:none;cursor:default;" src="./assets/banner.png?v=3" width="100%" alt="Hyeonseok's Github" />
 </div>
 
 > **Chewing and tearing through bugs, growing while having fun.** Welcome to the Bulldog's House! 🐶  
@@ -9,21 +9,22 @@
   <img style="pointer-events:none;cursor:default;" src="./assets/greeting.gif" alt="Greeting" />
 </div>
 
-## Email
+## Contact
 
-<div align="center">
-
+<table>
+<tr>
+<td valign="middle" align="right" width="160"><b>Email</b></td>
+<td valign="middle">
 <span>houndscorporation<!-- -->@<!-- -->gmail.com</span>
-
-</div>
-
-## Connect
-
-<div align="center">
-
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><b>Connect</b></td>
+<td valign="middle">
 <a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-instagram.svg" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-tistory.svg" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-linkedin.svg" alt="LinkedIn"/></a>
-
-</div>
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
