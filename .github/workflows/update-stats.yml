@@ -23,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Hyeonseok93&show_icons=true&include_all_commits=true&all_time_contribs=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9
+          options: username=Hyeonseok93&show_icons=true&include_all_commits=true&all_time_contribs=true&hide_rank=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
