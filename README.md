@@ -15,6 +15,7 @@
 ## About Me
 
 <table width="100%">
+<tr><td colspan="2" height="0"><img width="1200" height="0" alt="" /></td></tr>
 <tr>
 <td valign="middle" align="center" width="160"><b>Chapter 01</b></td>
 <td valign="middle">중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사</td>
@@ -40,6 +41,7 @@
 ## Contact
 
 <table width="100%">
+<tr><td colspan="2" height="0"><img width="1200" height="0" alt="" /></td></tr>
 <tr>
 <td valign="middle" align="center" width="160"><b>Email</b></td>
 <td valign="middle">
@@ -57,6 +59,7 @@
 ## Tech Stack
 
 <table width="100%">
+<tr><td colspan="2" height="0"><img width="1200" height="0" alt="" /></td></tr>
 <tr>
 <td valign="middle" align="center" width="160"><b>Languages</b></td>
 <td valign="middle">
@@ -163,6 +166,7 @@
 ## Projects
 
 <table width="100%">
+<tr><td colspan="2" height="0"><img width="1200" height="0" alt="" /></td></tr>
 <tr>
 <td valign="middle" align="center" width="160"><b>Project 01</b></td>
 <td valign="middle">—</td>
@@ -185,5 +189,5 @@
 </div>
 
 <div align="center">
-  <sub>GitHub journey started 2026.02.23</sub>
+  <p>GitHub journey started 2026.02.23</p>
 </div>
