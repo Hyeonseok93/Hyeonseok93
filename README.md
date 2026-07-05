@@ -8,6 +8,8 @@
 
 <h3 align="center">Chewing and tearing through bugs, growing while having fun.<br>Welcome to the Bulldog's House! 🐶</h3>
 
+<br>
+
 ## 👤 About Me
 
 <div align="center">
