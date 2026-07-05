@@ -177,5 +177,5 @@
 </div>
 
 <div align="center">
-  <sub>GitHub since 2020.07.03</sub>
+  <sub>GitHub journey started 2026.02.23</sub>
 </div>
