@@ -82,7 +82,7 @@
 <picture><img src="./assets/badges/zod.svg" alt="Zod"/></picture>
 <picture><img src="./assets/badges/reacthookform.svg" alt="React Hook Form"/></picture>
 <picture><img src="./assets/badges/recharts.svg" alt="Recharts"/></picture>
-<picture><img src="./assets/badges/axios.svg" alt="Axios"/></picture>
+<picture><img src="./assets/badges/axios.svg?v=2" alt="Axios"/></picture>
 <picture><img src="./assets/badges/reactrouter.svg" alt="React Router"/></picture>
 <picture><img src="./assets/badges/flutter.svg" alt="Flutter"/></picture>
 </td>
@@ -131,7 +131,7 @@
 <td valign="middle">
 <picture><img src="./assets/badges/streamlit.svg" alt="Streamlit"/></picture>
 <picture><img src="./assets/badges/selenium.svg" alt="Selenium"/></picture>
-<picture><img src="./assets/badges/playwright.svg" alt="Playwright"/></picture>
+<picture><img src="./assets/badges/playwright.svg?v=2" alt="Playwright"/></picture>
 <picture><img src="./assets/badges/beautifulsoup.svg" alt="BeautifulSoup"/></picture>
 <picture><img src="./assets/badges/vitest.svg" alt="Vitest"/></picture>
 <picture><img src="./assets/badges/qt.svg" alt="Qt"/></picture>
@@ -142,12 +142,40 @@
 <tr>
 <td valign="middle" align="right"><b>AI</b></td>
 <td valign="middle">
-<picture><img src="./assets/badges/groq.svg" alt="Groq"/></picture>
+<picture><img src="./assets/badges/groq.svg?v=2" alt="Groq"/></picture>
 <picture><img src="./assets/badges/gemini.svg" alt="Gemini"/></picture>
 <picture><img src="./assets/badges/antigravity.svg" alt="Antigravity"/></picture>
-<picture><img src="./assets/badges/cursor.svg" alt="Cursor AI"/></picture>
+<picture><img src="./assets/badges/cursor.svg?v=2" alt="Cursor AI"/></picture>
 <picture><img src="./assets/badges/roberta.svg" alt="RoBERTa"/></picture>
 <picture><img src="./assets/badges/huggingface.svg" alt="Hugging Face"/></picture>
 </td>
 </tr>
 </table>
+
+## Projects
+
+<table>
+<tr>
+<td valign="middle" align="right" width="160"><b>Project 01</b></td>
+<td valign="middle">—</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><b>Project 02</b></td>
+<td valign="middle">—</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><b>Project 03</b></td>
+<td valign="middle">—</td>
+</tr>
+</table>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyeonseok93&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyeonseok93&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonseok93&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="Top Languages" />
+</div>
