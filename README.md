@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Hyeonseok's Github" />
+  <img src="./assets/banner.png?v=2" width="100%" alt="Hyeonseok's Github" />
 </div>
 
 **Chewing through bugs, growing through tech.** Welcome to the Bulldog's House! 🐶
