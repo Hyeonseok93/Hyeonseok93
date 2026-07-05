@@ -172,8 +172,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <picture><img src="./profile/stats.svg" alt="GitHub Stats" /></picture>
-  <picture><img src="./profile/top-langs.svg" alt="Top Languages" /></picture>
+  <picture><img src="./profile/stats.svg?v=1" alt="GitHub Stats" /></picture>
+  <picture><img src="./profile/top-langs.svg?v=1" alt="Top Languages" /></picture>
 </div>
 
 <div align="center">
