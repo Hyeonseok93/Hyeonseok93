@@ -2,8 +2,8 @@
   <img src="./assets/banner.png?v=2" width="100%" alt="Hyeonseok's Github" />
 </div>
 
-**Chewing and tearing through bugs, growing while having fun.** Welcome to the Bulldog's House! 🐶  
-**버그 씹고 뜯으며 놀면서 성장 중인 불독의 집에 오신것을 환영합니다**
+> **Chewing and tearing through bugs, growing while having fun.** Welcome to the Bulldog's House! 🐶  
+> **버그 씹고 뜯으며 놀면서 성장 중인 불독의 집에 오신것을 환영합니다**
 
 ## Email
 
@@ -17,13 +17,13 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/harryharry.kim/">
+<a href="https://www.instagram.com/harryharry.kim/" style="text-decoration: none;">
   <img src="./assets/badges/contact-instagram.svg" alt="Instagram"/>
 </a>
-<a href="https://bulldog93.tistory.com/">
+<a href="https://bulldog93.tistory.com/" style="text-decoration: none;">
   <img src="./assets/badges/contact-tistory.svg" alt="Tistory"/>
 </a>
-<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/">
+<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" style="text-decoration: none;">
   <img src="./assets/badges/contact-linkedin.svg" alt="LinkedIn"/>
 </a>
 
