@@ -37,7 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Hyeonseok93&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9
+          options: username=Hyeonseok93&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
