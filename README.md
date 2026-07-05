@@ -35,8 +35,6 @@
 </table>
 </div>
 
-<hr>
-
 ## 🤝 Connect
 
 <p align="center">
@@ -60,8 +58,6 @@
 <td valign="middle">—</td>
 </tr>
 </table>
-
-<hr>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -142,16 +138,12 @@
 <picture><img src="./assets/badges/roberta.png?v=2" alt="RoBERTa"/></picture>
 <picture><img src="./assets/badges/huggingface.png?v=2" alt="Hugging Face"/></picture>
 
-<hr>
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <picture><img src="./profile/stats.svg?v=2" alt="GitHub Stats" /></picture>
   <picture><img src="./profile/top-langs.svg?v=5" alt="Top Languages" /></picture>
 </div>
-
-<hr>
 
 <div align="center">
   <picture><img src="./assets/footer.png" alt="GitHub journey started 2026.02.23" /></picture>
