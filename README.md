@@ -154,6 +154,6 @@
 
 <div align="center">
 
-<p style="font-size:1.5em;font-weight:600;margin:0;border:none;">GitHub journey started 2026.02.23</p>
+<h3 align="center">GitHub journey started 2026.02.23</h3>
 
 </div>
