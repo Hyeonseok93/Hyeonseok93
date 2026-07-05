@@ -23,7 +23,7 @@
 <tr>
 <td valign="middle" align="right"><b>Connect</b></td>
 <td valign="middle">
-<a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-instagram.svg" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-tistory.svg" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-instagram.svg?v=2" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-tistory.svg?v=2" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="./assets/badges/contact-linkedin.svg?v=2" alt="LinkedIn"/></a>
 </td>
 </tr>
 </table>
