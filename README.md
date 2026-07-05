@@ -17,7 +17,8 @@
 <table width="100%">
 <tr>
 <td valign="middle" align="center" width="160"><b>Chapter 01</b></td>
-<td valign="middle">중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사</td>
+<td valign="middle"><img width="1200" height="0" alt="" />
+중학교부터 대학 3학년까지 펜싱 선수 · 체육학과 학사</td>
 </tr>
 <tr>
 <td valign="middle" align="center" width="160"><b>Chapter 02</b></td>
@@ -42,7 +43,7 @@
 <table width="100%">
 <tr>
 <td valign="middle" align="center" width="160"><b>Email</b></td>
-<td valign="middle">
+<td valign="middle"><img width="1200" height="0" alt="" />
 <span>houndscorporation<!-- -->@<!-- -->gmail.com</span>
 </td>
 </tr>
@@ -59,7 +60,7 @@
 <table width="100%">
 <tr>
 <td valign="middle" align="center" width="160"><b>Languages</b></td>
-<td valign="middle">
+<td valign="middle"><img width="1200" height="0" alt="" />
 <picture><img src="./assets/badges/java.svg" alt="Java"/></picture>
 <picture><img src="./assets/badges/typescript.svg" alt="TypeScript"/></picture>
 <picture><img src="./assets/badges/python.svg" alt="Python"/></picture>
@@ -165,15 +166,15 @@
 <table width="100%">
 <tr>
 <td valign="middle" align="center" width="160"><b>Project 01</b></td>
-<td valign="middle">—</td>
+<td valign="middle"><img width="1200" height="0" alt="" />—</td>
 </tr>
 <tr>
 <td valign="middle" align="center" width="160"><b>Project 02</b></td>
-<td valign="middle">—</td>
+<td valign="middle"><img width="1200" height="0" alt="" />—</td>
 </tr>
 <tr>
 <td valign="middle" align="center" width="160"><b>Project 03</b></td>
-<td valign="middle">—</td>
+<td valign="middle"><img width="1200" height="0" alt="" />—</td>
 </tr>
 </table>
 
