@@ -41,98 +41,82 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+**🔧 Languages**
 
-<br>
+<picture><img src="./assets/badges/java.svg?v=13" alt="Java"/></picture>
+<picture><img src="./assets/badges/typescript.svg?v=13" alt="TypeScript"/></picture>
+<picture><img src="./assets/badges/python.svg?v=13" alt="Python"/></picture>
+<picture><img src="./assets/badges/javascript.svg?v=13" alt="JavaScript"/></picture>
+<picture><img src="./assets/badges/c.svg?v=13" alt="C"/></picture>
+<picture><img src="./assets/badges/dart.svg?v=13" alt="Dart"/></picture>
+<picture><img src="./assets/badges/html5.svg?v=13" alt="HTML5"/></picture>
+<picture><img src="./assets/badges/css3.svg?v=13" alt="CSS3"/></picture>
 
-<picture><img src="./assets/badges/java.svg" alt="Java"/></picture>
-<picture><img src="./assets/badges/typescript.svg" alt="TypeScript"/></picture>
-<picture><img src="./assets/badges/python.svg" alt="Python"/></picture>
-<picture><img src="./assets/badges/javascript.svg" alt="JavaScript"/></picture>
-<picture><img src="./assets/badges/c.svg" alt="C"/></picture>
-<picture><img src="./assets/badges/dart.svg" alt="Dart"/></picture>
-<picture><img src="./assets/badges/html5.svg" alt="HTML5"/></picture>
-<picture><img src="./assets/badges/css3.svg" alt="CSS3"/></picture>
+**🖥️ Frontend**
 
-#### 🖥️ Frontend
+<picture><img src="./assets/badges/react.svg?v=13" alt="React"/></picture>
+<picture><img src="./assets/badges/vite.svg?v=13" alt="Vite"/></picture>
+<picture><img src="./assets/badges/tailwindcss.svg?v=13" alt="Tailwind CSS"/></picture>
+<picture><img src="./assets/badges/mui.svg?v=13" alt="Material UI"/></picture>
+<picture><img src="./assets/badges/tanstackquery.svg?v=13" alt="TanStack Query"/></picture>
+<picture><img src="./assets/badges/zustand.svg?v=13" alt="Zustand"/></picture>
+<picture><img src="./assets/badges/zod.svg?v=13" alt="Zod"/></picture>
+<picture><img src="./assets/badges/reacthookform.svg?v=13" alt="React Hook Form"/></picture>
+<picture><img src="./assets/badges/recharts.svg?v=13" alt="Recharts"/></picture>
+<picture><img src="./assets/badges/axios.svg?v=13" alt="Axios"/></picture>
+<picture><img src="./assets/badges/reactrouter.svg?v=13" alt="React Router"/></picture>
+<picture><img src="./assets/badges/flutter.svg?v=13" alt="Flutter"/></picture>
 
-<br>
+**⚙️ Backend**
 
-<picture><img src="./assets/badges/react.svg" alt="React"/></picture>
-<picture><img src="./assets/badges/vite.svg" alt="Vite"/></picture>
-<picture><img src="./assets/badges/tailwindcss.svg" alt="Tailwind CSS"/></picture>
-<picture><img src="./assets/badges/mui.svg" alt="Material UI"/></picture>
-<picture><img src="./assets/badges/tanstackquery.svg" alt="TanStack Query"/></picture>
-<picture><img src="./assets/badges/zustand.svg" alt="Zustand"/></picture>
-<picture><img src="./assets/badges/zod.svg" alt="Zod"/></picture>
-<picture><img src="./assets/badges/reacthookform.svg" alt="React Hook Form"/></picture>
-<picture><img src="./assets/badges/recharts.svg" alt="Recharts"/></picture>
-<picture><img src="./assets/badges/axios.svg?v=2" alt="Axios"/></picture>
-<picture><img src="./assets/badges/reactrouter.svg" alt="React Router"/></picture>
-<picture><img src="./assets/badges/flutter.svg" alt="Flutter"/></picture>
+<picture><img src="./assets/badges/springboot.svg?v=13" alt="Spring Boot"/></picture>
+<picture><img src="./assets/badges/springsecurity.svg?v=13" alt="Spring Security"/></picture>
+<picture><img src="./assets/badges/jwt.svg?v=13" alt="JWT"/></picture>
+<picture><img src="./assets/badges/gradle.svg?v=13" alt="Gradle"/></picture>
+<picture><img src="./assets/badges/maven.svg?v=13" alt="Maven"/></picture>
+<picture><img src="./assets/badges/flyway.svg?v=13" alt="Flyway"/></picture>
+<picture><img src="./assets/badges/sqlalchemy.svg?v=13" alt="SQLAlchemy"/></picture>
+<picture><img src="./assets/badges/fastapi.svg?v=13" alt="FastAPI"/></picture>
+<picture><img src="./assets/badges/openapi.svg?v=13" alt="OpenAPI"/></picture>
 
-#### ⚙️ Backend
+**🗄️ Database**
 
-<br>
+<picture><img src="./assets/badges/postgresql.svg?v=13" alt="PostgreSQL"/></picture>
+<picture><img src="./assets/badges/mariadb.svg?v=13" alt="MariaDB"/></picture>
+<picture><img src="./assets/badges/redis.svg?v=13" alt="Redis"/></picture>
 
-<picture><img src="./assets/badges/springboot.svg" alt="Spring Boot"/></picture>
-<picture><img src="./assets/badges/springsecurity.svg" alt="Spring Security"/></picture>
-<picture><img src="./assets/badges/jwt.svg" alt="JWT"/></picture>
-<picture><img src="./assets/badges/gradle.svg" alt="Gradle"/></picture>
-<picture><img src="./assets/badges/maven.svg" alt="Maven"/></picture>
-<picture><img src="./assets/badges/flyway.svg" alt="Flyway"/></picture>
-<picture><img src="./assets/badges/sqlalchemy.svg" alt="SQLAlchemy"/></picture>
-<picture><img src="./assets/badges/fastapi.svg" alt="FastAPI"/></picture>
-<picture><img src="./assets/badges/openapi.svg" alt="OpenAPI"/></picture>
+**☁️ DevOps**
 
-#### 🗄️ Database
+<picture><img src="./assets/badges/docker.svg?v=13" alt="Docker"/></picture>
+<picture><img src="./assets/badges/nginx.svg?v=13" alt="Nginx"/></picture>
+<picture><img src="./assets/badges/terraform.svg?v=13" alt="Terraform"/></picture>
+<picture><img src="./assets/badges/githubactions.svg?v=13" alt="GitHub Actions"/></picture>
 
-<br>
+**📊 Data Science**
 
-<picture><img src="./assets/badges/postgresql.svg" alt="PostgreSQL"/></picture>
-<picture><img src="./assets/badges/mariadb.svg" alt="MariaDB"/></picture>
-<picture><img src="./assets/badges/redis.svg" alt="Redis"/></picture>
+<picture><img src="./assets/badges/pandas.svg?v=13" alt="Pandas"/></picture>
+<picture><img src="./assets/badges/plotly.svg?v=13" alt="Plotly"/></picture>
+<picture><img src="./assets/badges/jupyter.svg?v=13" alt="Jupyter"/></picture>
 
-#### ☁️ DevOps
+**🧪 Tools & Testing**
 
-<br>
+<picture><img src="./assets/badges/streamlit.svg?v=13" alt="Streamlit"/></picture>
+<picture><img src="./assets/badges/selenium.svg?v=13" alt="Selenium"/></picture>
+<picture><img src="./assets/badges/playwright.svg?v=13" alt="Playwright"/></picture>
+<picture><img src="./assets/badges/beautifulsoup.svg?v=13" alt="BeautifulSoup"/></picture>
+<picture><img src="./assets/badges/vitest.svg?v=13" alt="Vitest"/></picture>
+<picture><img src="./assets/badges/qt.svg?v=13" alt="Qt"/></picture>
+<picture><img src="./assets/badges/opencv.svg?v=13" alt="OpenCV"/></picture>
+<picture><img src="./assets/badges/pyinstaller.svg?v=13" alt="PyInstaller"/></picture>
 
-<picture><img src="./assets/badges/docker.svg" alt="Docker"/></picture>
-<picture><img src="./assets/badges/nginx.svg" alt="Nginx"/></picture>
-<picture><img src="./assets/badges/terraform.svg" alt="Terraform"/></picture>
-<picture><img src="./assets/badges/githubactions.svg" alt="GitHub Actions"/></picture>
+**🤖 AI**
 
-#### 📊 Data Science
-
-<br>
-
-<picture><img src="./assets/badges/pandas.svg" alt="Pandas"/></picture>
-<picture><img src="./assets/badges/plotly.svg" alt="Plotly"/></picture>
-<picture><img src="./assets/badges/jupyter.svg" alt="Jupyter"/></picture>
-
-#### 🧪 Tools & Testing
-
-<br>
-
-<picture><img src="./assets/badges/streamlit.svg" alt="Streamlit"/></picture>
-<picture><img src="./assets/badges/selenium.svg" alt="Selenium"/></picture>
-<picture><img src="./assets/badges/playwright.svg?v=2" alt="Playwright"/></picture>
-<picture><img src="./assets/badges/beautifulsoup.svg" alt="BeautifulSoup"/></picture>
-<picture><img src="./assets/badges/vitest.svg" alt="Vitest"/></picture>
-<picture><img src="./assets/badges/qt.svg" alt="Qt"/></picture>
-<picture><img src="./assets/badges/opencv.svg" alt="OpenCV"/></picture>
-<picture><img src="./assets/badges/pyinstaller.svg" alt="PyInstaller"/></picture>
-
-#### 🤖 AI
-
-<br>
-
-<picture><img src="./assets/badges/groq.svg?v=2" alt="Groq"/></picture>
-<picture><img src="./assets/badges/gemini.svg" alt="Gemini"/></picture>
-<picture><img src="./assets/badges/antigravity.svg" alt="Antigravity"/></picture>
-<picture><img src="./assets/badges/cursor.svg?v=2" alt="Cursor AI"/></picture>
-<picture><img src="./assets/badges/roberta.svg" alt="RoBERTa"/></picture>
-<picture><img src="./assets/badges/huggingface.svg" alt="Hugging Face"/></picture>
+<picture><img src="./assets/badges/groq.svg?v=13" alt="Groq"/></picture>
+<picture><img src="./assets/badges/gemini.svg?v=13" alt="Gemini"/></picture>
+<picture><img src="./assets/badges/antigravity.svg?v=13" alt="Antigravity"/></picture>
+<picture><img src="./assets/badges/cursor.svg?v=13" alt="Cursor AI"/></picture>
+<picture><img src="./assets/badges/roberta.svg?v=13" alt="RoBERTa"/></picture>
+<picture><img src="./assets/badges/huggingface.svg?v=13" alt="Hugging Face"/></picture>
 
 ## Projects
 
