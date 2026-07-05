@@ -7,9 +7,11 @@
 </div>
 
 <div align="center">
-  <h2>Chewing and tearing through bugs, growing while having fun.<br>Welcome to the Bulldog's House! 🐶</h2>
+  <h3>Chewing and tearing through bugs, growing while having fun.<br>Welcome to the Bulldog's House! 🐶</h3>
 </div>
-**About Me**
+
+## About Me
+
 <table width="100%">
 <tr><td colspan="2" height="0"><img width="1200" height="0" alt="" /></td></tr>
 <tr>
@@ -36,7 +38,7 @@
 
 <div align="center">
   <h1>Connect 🤝</h1>
-  <a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/contact-instagram.svg?v=3" height="40" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/contact-tistory.svg?v=3" height="40" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/contact-linkedin.svg?v=3" height="40" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/harryharry.kim/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/contact-instagram.svg?v=4" height="48" alt="Instagram"/></a>&#8194;<a href="https://bulldog93.tistory.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/contact-tistory.svg?v=4" height="48" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/contact-linkedin.svg?v=4" height="48" alt="LinkedIn"/></a>
 </div>
 
 ## 🛠 Tech Stack
