@@ -15,7 +15,7 @@
 Chewing and tearing through bugs, growing while having fun.<br>
 Welcome to the Bulldog's House! 🐶<br>
 <br>
-버그 씹고 뜯으며 놀면서 성장 중인 불독의 집에 오신것을 환영합니다!!!
+버그 씹고 뜯고 놀며 성장 중인 불독의 집에 오신것을 환영합니다!!!
 
 </div>
 
