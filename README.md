@@ -14,8 +14,7 @@
 
 Chewing and tearing through code, growing while having fun.<br>
 Welcome to the Bulldog's House! 🐶<br>
-<br>
-코드를 씹고 뜯고 놀며 성장 중인 불독의 집에 오신것을 환영합니다!!!
+(코드를 씹고 뜯고 놀며 성장 중인 불독의 집에 오신것을 환영합니다!!!)
 
 </div>
 
