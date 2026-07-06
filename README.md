@@ -71,91 +71,97 @@
 
 **🔧 Languages**
 
-<picture><img src="./assets/badges/java.png?v=2" alt="Java"/></picture>
-<picture><img src="./assets/badges/typescript.png?v=2" alt="TypeScript"/></picture>
-<picture><img src="./assets/badges/python.png?v=2" alt="Python"/></picture>
-<picture><img src="./assets/badges/javascript.png?v=2" alt="JavaScript"/></picture>
-<picture><img src="./assets/badges/c.png?v=2" alt="C"/></picture>
-<picture><img src="./assets/badges/dart.png?v=2" alt="Dart"/></picture>
-<picture><img src="./assets/badges/html5.png?v=2" alt="HTML5"/></picture>
-<picture><img src="./assets/badges/css3.png?v=3" alt="CSS3"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/java.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/java.png?v=1"><img src="./assets/badges/dark/java.png?v=1" alt="Java"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/typescript.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/typescript.png?v=1"><img src="./assets/badges/dark/typescript.png?v=1" alt="TypeScript"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/python.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/python.png?v=1"><img src="./assets/badges/dark/python.png?v=1" alt="Python"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/javascript.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/javascript.png?v=1"><img src="./assets/badges/dark/javascript.png?v=1" alt="JavaScript"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/c.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/c.png?v=1"><img src="./assets/badges/dark/c.png?v=1" alt="C"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/dart.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/dart.png?v=1"><img src="./assets/badges/dark/dart.png?v=1" alt="Dart"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/html5.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/html5.png?v=1"><img src="./assets/badges/dark/html5.png?v=1" alt="HTML5"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/css3.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/css3.png?v=1"><img src="./assets/badges/dark/css3.png?v=1" alt="CSS3"/></picture>
 
 **🖥️ Frontend**
 
-<picture><img src="./assets/badges/react.png?v=2" alt="React"/></picture>
-<picture><img src="./assets/badges/vite.png?v=2" alt="Vite"/></picture>
-<picture><img src="./assets/badges/tailwindcss.png?v=2" alt="Tailwind CSS"/></picture>
-<picture><img src="./assets/badges/mui.png?v=2" alt="Material UI"/></picture>
-<picture><img src="./assets/badges/tanstackquery.png?v=2" alt="TanStack Query"/></picture>
-<picture><img src="./assets/badges/zustand.png?v=2" alt="Zustand"/></picture>
-<picture><img src="./assets/badges/zod.png?v=2" alt="Zod"/></picture>
-<picture><img src="./assets/badges/reacthookform.png?v=2" alt="React Hook Form"/></picture>
-<picture><img src="./assets/badges/recharts.png?v=2" alt="Recharts"/></picture>
-<picture><img src="./assets/badges/axios.png?v=2" alt="Axios"/></picture>
-<picture><img src="./assets/badges/reactrouter.png?v=2" alt="React Router"/></picture>
-<picture><img src="./assets/badges/flutter.png?v=2" alt="Flutter"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/react.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/react.png?v=1"><img src="./assets/badges/dark/react.png?v=1" alt="React"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/vite.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/vite.png?v=1"><img src="./assets/badges/dark/vite.png?v=1" alt="Vite"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/tailwindcss.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/tailwindcss.png?v=1"><img src="./assets/badges/dark/tailwindcss.png?v=1" alt="Tailwind CSS"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/mui.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/mui.png?v=1"><img src="./assets/badges/dark/mui.png?v=1" alt="Material UI"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/tanstackquery.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/tanstackquery.png?v=1"><img src="./assets/badges/dark/tanstackquery.png?v=1" alt="TanStack Query"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/zustand.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/zustand.png?v=1"><img src="./assets/badges/dark/zustand.png?v=1" alt="Zustand"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/zod.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/zod.png?v=1"><img src="./assets/badges/dark/zod.png?v=1" alt="Zod"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/reacthookform.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/reacthookform.png?v=1"><img src="./assets/badges/dark/reacthookform.png?v=1" alt="React Hook Form"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/recharts.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/recharts.png?v=1"><img src="./assets/badges/dark/recharts.png?v=1" alt="Recharts"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/axios.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/axios.png?v=1"><img src="./assets/badges/dark/axios.png?v=1" alt="Axios"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/reactrouter.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/reactrouter.png?v=1"><img src="./assets/badges/dark/reactrouter.png?v=1" alt="React Router"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/flutter.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/flutter.png?v=1"><img src="./assets/badges/dark/flutter.png?v=1" alt="Flutter"/></picture>
 
 **⚙️ Backend**
 
-<picture><img src="./assets/badges/springboot.png?v=2" alt="Spring Boot"/></picture>
-<picture><img src="./assets/badges/springsecurity.png?v=2" alt="Spring Security"/></picture>
-<picture><img src="./assets/badges/jwt.png?v=2" alt="JWT"/></picture>
-<picture><img src="./assets/badges/gradle.png?v=2" alt="Gradle"/></picture>
-<picture><img src="./assets/badges/maven.png?v=2" alt="Maven"/></picture>
-<picture><img src="./assets/badges/flyway.png?v=2" alt="Flyway"/></picture>
-<picture><img src="./assets/badges/sqlalchemy.png?v=2" alt="SQLAlchemy"/></picture>
-<picture><img src="./assets/badges/fastapi.png?v=2" alt="FastAPI"/></picture>
-<picture><img src="./assets/badges/openapi.png?v=2" alt="OpenAPI"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/springboot.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/springboot.png?v=1"><img src="./assets/badges/dark/springboot.png?v=1" alt="Spring Boot"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/springsecurity.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/springsecurity.png?v=1"><img src="./assets/badges/dark/springsecurity.png?v=1" alt="Spring Security"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/jwt.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/jwt.png?v=1"><img src="./assets/badges/dark/jwt.png?v=1" alt="JWT"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/gradle.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/gradle.png?v=1"><img src="./assets/badges/dark/gradle.png?v=1" alt="Gradle"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/maven.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/maven.png?v=1"><img src="./assets/badges/dark/maven.png?v=1" alt="Maven"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/flyway.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/flyway.png?v=1"><img src="./assets/badges/dark/flyway.png?v=1" alt="Flyway"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/sqlalchemy.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/sqlalchemy.png?v=1"><img src="./assets/badges/dark/sqlalchemy.png?v=1" alt="SQLAlchemy"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/fastapi.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/fastapi.png?v=1"><img src="./assets/badges/dark/fastapi.png?v=1" alt="FastAPI"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/openapi.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/openapi.png?v=1"><img src="./assets/badges/dark/openapi.png?v=1" alt="OpenAPI"/></picture>
 
 **🗄️ Database**
 
-<picture><img src="./assets/badges/postgresql.png?v=2" alt="PostgreSQL"/></picture>
-<picture><img src="./assets/badges/mariadb.png?v=2" alt="MariaDB"/></picture>
-<picture><img src="./assets/badges/redis.png?v=2" alt="Redis"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/postgresql.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/postgresql.png?v=1"><img src="./assets/badges/dark/postgresql.png?v=1" alt="PostgreSQL"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/mariadb.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/mariadb.png?v=1"><img src="./assets/badges/dark/mariadb.png?v=1" alt="MariaDB"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/redis.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/redis.png?v=1"><img src="./assets/badges/dark/redis.png?v=1" alt="Redis"/></picture>
 
 **☁️ DevOps**
 
-<picture><img src="./assets/badges/docker.png?v=2" alt="Docker"/></picture>
-<picture><img src="./assets/badges/nginx.png?v=2" alt="Nginx"/></picture>
-<picture><img src="./assets/badges/terraform.png?v=2" alt="Terraform"/></picture>
-<picture><img src="./assets/badges/githubactions.png?v=2" alt="GitHub Actions"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/docker.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/docker.png?v=1"><img src="./assets/badges/dark/docker.png?v=1" alt="Docker"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/nginx.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/nginx.png?v=1"><img src="./assets/badges/dark/nginx.png?v=1" alt="Nginx"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/terraform.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/terraform.png?v=1"><img src="./assets/badges/dark/terraform.png?v=1" alt="Terraform"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/githubactions.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/githubactions.png?v=1"><img src="./assets/badges/dark/githubactions.png?v=1" alt="GitHub Actions"/></picture>
 
 **📊 Data Science**
 
-<picture><img src="./assets/badges/pandas.png?v=2" alt="Pandas"/></picture>
-<picture><img src="./assets/badges/plotly.png?v=2" alt="Plotly"/></picture>
-<picture><img src="./assets/badges/jupyter.png?v=2" alt="Jupyter"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/pandas.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/pandas.png?v=1"><img src="./assets/badges/dark/pandas.png?v=1" alt="Pandas"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/plotly.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/plotly.png?v=1"><img src="./assets/badges/dark/plotly.png?v=1" alt="Plotly"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/jupyter.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/jupyter.png?v=1"><img src="./assets/badges/dark/jupyter.png?v=1" alt="Jupyter"/></picture>
 
 **🧪 Tools & Testing**
 
-<picture><img src="./assets/badges/streamlit.png?v=2" alt="Streamlit"/></picture>
-<picture><img src="./assets/badges/selenium.png?v=2" alt="Selenium"/></picture>
-<picture><img src="./assets/badges/playwright.png?v=2" alt="Playwright"/></picture>
-<picture><img src="./assets/badges/beautifulsoup.png?v=2" alt="BeautifulSoup"/></picture>
-<picture><img src="./assets/badges/vitest.png?v=2" alt="Vitest"/></picture>
-<picture><img src="./assets/badges/qt.png?v=2" alt="Qt"/></picture>
-<picture><img src="./assets/badges/opencv.png?v=2" alt="OpenCV"/></picture>
-<picture><img src="./assets/badges/pyinstaller.png?v=2" alt="PyInstaller"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/streamlit.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/streamlit.png?v=1"><img src="./assets/badges/dark/streamlit.png?v=1" alt="Streamlit"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/selenium.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/selenium.png?v=1"><img src="./assets/badges/dark/selenium.png?v=1" alt="Selenium"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/playwright.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/playwright.png?v=1"><img src="./assets/badges/dark/playwright.png?v=1" alt="Playwright"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/beautifulsoup.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/beautifulsoup.png?v=1"><img src="./assets/badges/dark/beautifulsoup.png?v=1" alt="BeautifulSoup"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/vitest.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/vitest.png?v=1"><img src="./assets/badges/dark/vitest.png?v=1" alt="Vitest"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/qt.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/qt.png?v=1"><img src="./assets/badges/dark/qt.png?v=1" alt="Qt"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/opencv.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/opencv.png?v=1"><img src="./assets/badges/dark/opencv.png?v=1" alt="OpenCV"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/pyinstaller.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/pyinstaller.png?v=1"><img src="./assets/badges/dark/pyinstaller.png?v=1" alt="PyInstaller"/></picture>
 
 **🤖 AI**
 
-<picture><img src="./assets/badges/groq.png?v=2" alt="Groq"/></picture>
-<picture><img src="./assets/badges/gemini.png?v=2" alt="Gemini"/></picture>
-<picture><img src="./assets/badges/antigravity.png?v=2" alt="Antigravity"/></picture>
-<picture><img src="./assets/badges/cursor.png?v=2" alt="Cursor AI"/></picture>
-<picture><img src="./assets/badges/roberta.png?v=2" alt="RoBERTa"/></picture>
-<picture><img src="./assets/badges/huggingface.png?v=2" alt="Hugging Face"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/groq.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/groq.png?v=1"><img src="./assets/badges/dark/groq.png?v=1" alt="Groq"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/gemini.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/gemini.png?v=1"><img src="./assets/badges/dark/gemini.png?v=1" alt="Gemini"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/antigravity.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/antigravity.png?v=1"><img src="./assets/badges/dark/antigravity.png?v=1" alt="Antigravity"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/cursor.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/cursor.png?v=1"><img src="./assets/badges/dark/cursor.png?v=1" alt="Cursor AI"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/roberta.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/roberta.png?v=1"><img src="./assets/badges/dark/roberta.png?v=1" alt="RoBERTa"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/huggingface.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/huggingface.png?v=1"><img src="./assets/badges/dark/huggingface.png?v=1" alt="Hugging Face"/></picture>
 
 <br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture><img src="./profile/stats.svg?v=2" alt="GitHub Stats" /></picture>
-  <picture><img src="./profile/top-langs.svg?v=5" alt="Top Languages" /></picture>
-</div>
-
-<br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg?v=1">
+    <img src="./profile/stats.svg?v=2" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg?v=5">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg?v=1">
+    <img src="./profile/top-langs.svg?v=5" alt="Top Languages" />
+  </picture>
+</div><br>
 
 <div align="center">
   <picture><img src="./assets/footer.png" alt="GitHub journey started 2026.02.23" /></picture>
