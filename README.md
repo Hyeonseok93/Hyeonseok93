@@ -8,8 +8,6 @@
 
 <br>
 
-## 👤 About Me
-
 <div align="center">
 
 Chewing and tearing through code, growing while having fun.<br>
