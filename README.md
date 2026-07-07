@@ -27,27 +27,55 @@ Welcome to the Bulldog's House! 🐶
 
 ## 🚀 Projects
 
-<table width="100%">
-<tr><td colspan="2" height="0"><img width="1200" height="0" alt="" /></td></tr>
-<tr>
-<td valign="middle" align="center" width="160"><b>Project 01</b></td>
-<td valign="middle">—</td>
-</tr>
-<tr>
-<td valign="middle" align="center" width="160"><b>Project 02</b></td>
-<td valign="middle">—</td>
-</tr>
-<tr>
-<td valign="middle" align="center" width="160"><b>Project 03</b></td>
-<td valign="middle">—</td>
-</tr>
-</table>
+<details>
+<summary><b>SK 쉴더스 루키즈 5기</b></summary>
+<br>
+
+<details>
+<summary>미니 프로젝트 1</summary>
+<br>
+—
+</details>
+<br>
+
+<details>
+<summary>미니 프로젝트 2</summary>
+<br>
+—
+</details>
+<br>
+
+<details>
+<summary>미니 프로젝트 3</summary>
+<br>
+—
+</details>
+<br>
+
+<details>
+<summary>최종 프로젝트</summary>
+<br>
+—
+</details>
+
+</details>
+<br>
+
+<details>
+<summary><b>개인 프로젝트</b></summary>
+<br>
+—
+</details>
 
 <br>
 
 ## 🛠 &nbsp;Tech Stack
 
+<div align="center">
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/java.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/java.png?v=1"><img src="./assets/badges/dark/java.png?v=1" alt="Java"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/typescript.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/typescript.png?v=1"><img src="./assets/badges/dark/typescript.png?v=1" alt="TypeScript"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/python.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/python.png?v=1"><img src="./assets/badges/dark/python.png?v=1" alt="Python"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/javascript.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/javascript.png?v=1"><img src="./assets/badges/dark/javascript.png?v=1" alt="JavaScript"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/react.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/react.png?v=1"><img src="./assets/badges/dark/react.png?v=1" alt="React"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/vite.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/vite.png?v=1"><img src="./assets/badges/dark/vite.png?v=1" alt="Vite"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/tailwindcss.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/tailwindcss.png?v=1"><img src="./assets/badges/dark/tailwindcss.png?v=1" alt="Tailwind CSS"/></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/springboot.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/springboot.png?v=1"><img src="./assets/badges/dark/springboot.png?v=1" alt="Spring Boot"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/springsecurity.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/springsecurity.png?v=1"><img src="./assets/badges/dark/springsecurity.png?v=1" alt="Spring Security"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/fastapi.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/fastapi.png?v=1"><img src="./assets/badges/dark/fastapi.png?v=1" alt="FastAPI"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/postgresql.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/postgresql.png?v=1"><img src="./assets/badges/dark/postgresql.png?v=1" alt="PostgreSQL"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/redis.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/redis.png?v=1"><img src="./assets/badges/dark/redis.png?v=1" alt="Redis"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/docker.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/docker.png?v=1"><img src="./assets/badges/dark/docker.png?v=1" alt="Docker"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/githubactions.png?v=1"><source media="(prefers-color-scheme: light)" srcset="./assets/badges/light/githubactions.png?v=1"><img src="./assets/badges/dark/githubactions.png?v=1" alt="GitHub Actions"/></picture>
+
+</div>
 
 <br>
 
