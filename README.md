@@ -28,41 +28,45 @@ Welcome to the Bulldog's House! 🐶
 ## 🚀 Projects
 
 <details>
-<summary><b>SK 쉴더스 루키즈 5기</b></summary>
+<summary><h3>SK 쉴더스 루키즈 5기</h3></summary>
 <br>
 
+<blockquote>
+
 <details>
-<summary>미니 프로젝트 1</summary>
+<summary><b>미니 프로젝트 1</b></summary>
 <br>
 —
 </details>
 <br>
 
 <details>
-<summary>미니 프로젝트 2</summary>
+<summary><b>미니 프로젝트 2</b></summary>
 <br>
 —
 </details>
 <br>
 
 <details>
-<summary>미니 프로젝트 3</summary>
+<summary><b>미니 프로젝트 3</b></summary>
 <br>
 —
 </details>
 <br>
 
 <details>
-<summary>최종 프로젝트</summary>
+<summary><b>최종 프로젝트</b></summary>
 <br>
 —
 </details>
+
+</blockquote>
 
 </details>
 <br>
 
 <details>
-<summary><b>개인 프로젝트</b></summary>
+<summary><h3>개인 프로젝트</h3></summary>
 <br>
 —
 </details>
