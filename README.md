@@ -20,7 +20,16 @@ Welcome to the Bulldog's House! 🐶
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/Hyeonseok93"><img src="./assets/badges/contact-github.png?v=1" alt="GitHub"/></a>&#8194;<a href="https://hyeonseok93.github.io/"><img src="./assets/badges/contact-githubpages.png?v=5" alt="GitHub Pages"/></a>&#8194;<a href="https://bulldog93.tistory.com/"><img src="./assets/badges/contact-tistory.png?v=3" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/"><img src="./assets/badges/contact-linkedin.png?v=3" alt="LinkedIn"/></a></p>
+  <a href="https://github.com/Hyeonseok93"><img src="./assets/badges/contact-github.png?v=1" alt="GitHub"/></a>&#8194;<a href="https://hyeonseok93.github.io/"><img src="./assets/badges/contact-githubpages.png?v=5" alt="GitHub Pages"/></a>&#8194;<a href="https://bulldog93.tistory.com/"><img src="./assets/badges/contact-tistory.png?v=3" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok-kim-2a7a68413/"><img src="./assets/badges/contact-linkedin.png?v=3" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  GitHub · 저장소 &nbsp;·&nbsp; GitHub Pages · 백업 블로그 &nbsp;·&nbsp; Tistory · 메인 블로그 &nbsp;·&nbsp; LinkedIn · 프로필
+</p>
+
+<p align="center">
+  <sub>Tistory가 불안해서 GitHub Pages에 백업 블로그를 만들어 뒀어요.</sub>
+</p>
 
 <br>
 
