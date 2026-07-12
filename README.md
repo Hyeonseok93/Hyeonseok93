@@ -35,7 +35,7 @@ Welcome to the Bulldog's House! 🐶
 
 ## 🚀 Projects
 
-<p align="right">
+<p align="left">
   <a href="https://github.com/Hyeonseok93?tab=repositories"><small>→ View all repositories</small></a>
 </p>
 
