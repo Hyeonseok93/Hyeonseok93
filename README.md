@@ -39,7 +39,7 @@ Welcome to the Bulldog's House! 🐶
   <a href="https://github.com/Hyeonseok93?tab=repositories"><small>→ View all repositories</small></a>
 </p>
 
-<details>
+<details open>
 <summary><h3>SK 쉴더스 루키즈 5기</h3></summary>
 <br>
 
@@ -77,7 +77,7 @@ Welcome to the Bulldog's House! 🐶
 </details>
 <br>
 
-<details>
+<details open>
 <summary><h3>개인 프로젝트</h3></summary>
 <br>
 
