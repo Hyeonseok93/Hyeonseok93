@@ -28,7 +28,7 @@ Welcome to the Bulldog's House! 🐶
 </p>
 
 <p align="center">
-  <sub>Tistory가 불안해서 GitHub Pages에 백업 블로그를 만들어 뒀어요.</sub>
+  Tistory가 불안해서 GitHub Pages에 백업 블로그를 만들어 뒀어요. 두 블로그 내용은 동일합니다.
 </p>
 
 <br>
