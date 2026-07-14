@@ -37,15 +37,19 @@ Welcome to the Bulldog's House! 🐶
 
 ### SK 쉴더스 루키즈 5기
 
-<div align="center">
-
 <table width="100%">
+  <colgroup>
+    <col width="40%" />
+    <col width="20%" />
+    <col width="20%" />
+    <col width="20%" />
+  </colgroup>
   <thead>
     <tr>
-      <th width="25%" align="left">프로젝트</th>
-      <th width="25%" align="center">GitHub</th>
-      <th width="25%" align="center">Tistory</th>
-      <th width="25%" align="center">GitHub Pages</th>
+      <th align="left">프로젝트</th>
+      <th align="center">GitHub</th>
+      <th align="center">Tistory</th>
+      <th align="center">GitHub Pages</th>
     </tr>
   </thead>
   <tbody>
@@ -81,8 +85,6 @@ Welcome to the Bulldog's House! 🐶
     </tr>
   </tbody>
 </table>
-
-</div>
 
 <br>
 
