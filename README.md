@@ -20,11 +20,11 @@ Welcome to the Bulldog's House! 🐶
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/Hyeonseok93"><img src="./assets/badges/contact-github.png?v=1" alt="GitHub"/></a>&#8194;<a href="https://hyeonseok93.github.io/"><img src="./assets/badges/contact-githubpages.png?v=5" alt="GitHub Pages"/></a>&#8194;<a href="https://bulldog93.tistory.com/"><img src="./assets/badges/contact-tistory.png?v=3" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok93"><img src="./assets/badges/contact-linkedin.png?v=3" alt="LinkedIn"/></a>
+  <a href="https://hyeonseok93-portfolio.vercel.app/"><img src="./assets/badges/contact-vercel.png?v=3" alt="Vercel"/></a>&#8194;<a href="https://github.com/Hyeonseok93"><img src="./assets/badges/contact-github.png?v=1" alt="GitHub"/></a>&#8194;<a href="https://hyeonseok93.github.io/"><img src="./assets/badges/contact-githubpages.png?v=5" alt="GitHub Pages"/></a>&#8194;<a href="https://bulldog93.tistory.com/"><img src="./assets/badges/contact-tistory.png?v=3" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok93"><img src="./assets/badges/contact-linkedin.png?v=3" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
-  GitHub · 저장소 &nbsp;·&nbsp; GitHub Pages · 백업 블로그 &nbsp;·&nbsp; Tistory · 메인 블로그 &nbsp;·&nbsp; LinkedIn · 프로필
+  Vercel · 포트폴리오 &nbsp;·&nbsp; GitHub · 저장소 &nbsp;·&nbsp; GitHub Pages · 백업 블로그 &nbsp;·&nbsp; Tistory · 메인 블로그 &nbsp;·&nbsp; LinkedIn · 프로필
 </p>
 
 <p align="center">
