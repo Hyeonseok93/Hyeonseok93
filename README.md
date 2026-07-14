@@ -39,13 +39,48 @@ Welcome to the Bulldog's House! 🐶
 
 <div align="center">
 
-| 프로젝트 | GitHub | Tistory | GitHub Pages |
-| :--- | :---: | :---: | :---: |
-| 미니 프로젝트 1 - CVS | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-MINI1_CVS-EVENT-COMPARATOR) | [Post](https://bulldog93.tistory.com/45) | [Pages](https://hyeonseok93.github.io/posts/rookies-showcase-mini1/) |
-| 미니 프로젝트 2 - MATE | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-MINI2_MATE) | [Post](https://bulldog93.tistory.com/46) | [Pages](https://hyeonseok93.github.io/posts/rookies-showcase-mini2/) |
-| 미니 프로젝트 3 - MACTA | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-MINI3_MACTA) | [Post](https://bulldog93.tistory.com/47) | [Pages](https://hyeonseok93.github.io/posts/rookies-showcase-mini3/) |
-| 최종 프로젝트 - ONDE | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ONDE) | [Post](https://bulldog93.tistory.com/48) | [Pages](https://hyeonseok93.github.io/posts/rookies-showcase-final1/) |
-| 최종 프로젝트 - ARGUS | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ARGUS) | [Post](https://bulldog93.tistory.com/49) | [Pages](https://hyeonseok93.github.io/posts/rookies-showcase-final2/) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%" align="left">프로젝트</th>
+      <th width="25%" align="center">GitHub</th>
+      <th width="25%" align="center">Tistory</th>
+      <th width="25%" align="center">GitHub Pages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">루키즈 5기 미니 프로젝트 1 - CVS</td>
+      <td align="center"><a href="https://github.com/Hyeonseok93/SK-Rookies5-MINI1_CVS-EVENT-COMPARATOR">Repository</a></td>
+      <td align="center"><a href="https://bulldog93.tistory.com/45">Post</a></td>
+      <td align="center"><a href="https://hyeonseok93.github.io/posts/rookies-showcase-mini1/">Pages</a></td>
+    </tr>
+    <tr>
+      <td align="left">루키즈 5기 미니 프로젝트 2 - MATE</td>
+      <td align="center"><a href="https://github.com/Hyeonseok93/SK-Rookies5-MINI2_MATE">Repository</a></td>
+      <td align="center"><a href="https://bulldog93.tistory.com/46">Post</a></td>
+      <td align="center"><a href="https://hyeonseok93.github.io/posts/rookies-showcase-mini2/">Pages</a></td>
+    </tr>
+    <tr>
+      <td align="left">루키즈 5기 미니 프로젝트 3 - MACTA</td>
+      <td align="center"><a href="https://github.com/Hyeonseok93/SK-Rookies5-MINI3_MACTA">Repository</a></td>
+      <td align="center"><a href="https://bulldog93.tistory.com/47">Post</a></td>
+      <td align="center"><a href="https://hyeonseok93.github.io/posts/rookies-showcase-mini3/">Pages</a></td>
+    </tr>
+    <tr>
+      <td align="left">루키즈 5기 최종 프로젝트 - ONDE</td>
+      <td align="center"><a href="https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ONDE">Repository</a></td>
+      <td align="center"><a href="https://bulldog93.tistory.com/48">Post</a></td>
+      <td align="center"><a href="https://hyeonseok93.github.io/posts/rookies-showcase-final1/">Pages</a></td>
+    </tr>
+    <tr>
+      <td align="left">루키즈 5기 최종 프로젝트 - ARGUS</td>
+      <td align="center"><a href="https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ARGUS">Repository</a></td>
+      <td align="center"><a href="https://bulldog93.tistory.com/49">Post</a></td>
+      <td align="center"><a href="https://hyeonseok93.github.io/posts/rookies-showcase-final2/">Pages</a></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
