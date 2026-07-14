@@ -35,42 +35,20 @@ Welcome to the Bulldog's House! 🐶
 
 ## 🚀 Projects <a href="https://github.com/Hyeonseok93?tab=repositories">→ View all repositories</a>
 
-<details open>
-<summary><b>SK 쉴더스 루키즈 5기</b></summary>
-<br>
+### SK 쉴더스 루키즈 5기
 
-<blockquote>
+<div align="center">
 
-<details>
-<summary><b>미니 프로젝트 1</b></summary>
-<br>
-—
-</details>
-<br>
+| 프로젝트 | GitHub | Tistory |
+| :--- | :--- | :--- |
+| 미니 프로젝트 - CVS | [https://github.com/Hyeonseok93/SK-Rookies5-MINI1_CVS-EVENT-COMPARATOR](https://github.com/Hyeonseok93/SK-Rookies5-MINI1_CVS-EVENT-COMPARATOR) | [https://bulldog93.tistory.com/45](https://bulldog93.tistory.com/45) |
+| 미니 프로젝트 - MATE | [https://github.com/Hyeonseok93/SK-Rookies5-MINI2_MATE](https://github.com/Hyeonseok93/SK-Rookies5-MINI2_MATE) | [https://bulldog93.tistory.com/46](https://bulldog93.tistory.com/46) |
+| 미니 프로젝트 - MACTA | [https://github.com/Hyeonseok93/SK-Rookies5-MINI3_MACTA](https://github.com/Hyeonseok93/SK-Rookies5-MINI3_MACTA) | [https://bulldog93.tistory.com/47](https://bulldog93.tistory.com/47) |
+| 최종 프로젝트 - ONDE | [https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ONDE](https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ONDE) | [https://bulldog93.tistory.com/48](https://bulldog93.tistory.com/48) |
+| 최종 프로젝트 - ARGUS | [https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ARGUS](https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ARGUS) | [https://bulldog93.tistory.com/49](https://bulldog93.tistory.com/49) |
 
-<details>
-<summary><b>미니 프로젝트 2</b></summary>
-<br>
-—
-</details>
-<br>
+</div>
 
-<details>
-<summary><b>미니 프로젝트 3</b></summary>
-<br>
-—
-</details>
-<br>
-
-<details>
-<summary><b>최종 프로젝트</b></summary>
-<br>
-—
-</details>
-
-</blockquote>
-
-</details>
 <br>
 
 <details open>
