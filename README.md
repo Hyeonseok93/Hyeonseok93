@@ -86,45 +86,6 @@ Welcome to the Bulldog's House! 🐶
 
 <br>
 
-<details open>
-<summary><b>개인 프로젝트</b></summary>
-<br>
-
-<blockquote>
-
-<details>
-<summary><b>무제 1</b></summary>
-<br>
-—
-</details>
-<br>
-
-<details>
-<summary><b>무제 2</b></summary>
-<br>
-—
-</details>
-<br>
-
-<details>
-<summary><b>무제 3</b></summary>
-<br>
-—
-</details>
-<br>
-
-<details>
-<summary><b>무제 4</b></summary>
-<br>
-—
-</details>
-
-</blockquote>
-
-</details>
-
-<br>
-
 ## 🛠 &nbsp;Tech Stack
 
 <div align="center">
