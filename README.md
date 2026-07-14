@@ -43,9 +43,9 @@ Welcome to the Bulldog's House! 🐶
   <thead>
     <tr>
       <th align="left">프로젝트</th>
-      <th align="center" width="110">GitHub</th>
-      <th align="center" width="110">Tistory</th>
-      <th align="center" width="110">GitHub Pages</th>
+      <th align="center" width="140">GitHub</th>
+      <th align="center" width="140">Tistory</th>
+      <th align="center" width="140">GitHub&nbsp;Pages</th>
     </tr>
   </thead>
   <tbody>
