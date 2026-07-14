@@ -40,12 +40,12 @@ Welcome to the Bulldog's House! 🐶
 <div align="center">
 
 | 프로젝트 | GitHub | Tistory |
-| :--- | :--- | :--- |
-| 미니 프로젝트 - CVS | [https://github.com/Hyeonseok93/SK-Rookies5-MINI1_CVS-EVENT-COMPARATOR](https://github.com/Hyeonseok93/SK-Rookies5-MINI1_CVS-EVENT-COMPARATOR) | [https://bulldog93.tistory.com/45](https://bulldog93.tistory.com/45) |
-| 미니 프로젝트 - MATE | [https://github.com/Hyeonseok93/SK-Rookies5-MINI2_MATE](https://github.com/Hyeonseok93/SK-Rookies5-MINI2_MATE) | [https://bulldog93.tistory.com/46](https://bulldog93.tistory.com/46) |
-| 미니 프로젝트 - MACTA | [https://github.com/Hyeonseok93/SK-Rookies5-MINI3_MACTA](https://github.com/Hyeonseok93/SK-Rookies5-MINI3_MACTA) | [https://bulldog93.tistory.com/47](https://bulldog93.tistory.com/47) |
-| 최종 프로젝트 - ONDE | [https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ONDE](https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ONDE) | [https://bulldog93.tistory.com/48](https://bulldog93.tistory.com/48) |
-| 최종 프로젝트 - ARGUS | [https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ARGUS](https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ARGUS) | [https://bulldog93.tistory.com/49](https://bulldog93.tistory.com/49) |
+| :--- | :---: | :---: |
+| 미니 프로젝트 1 - CVS | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-MINI1_CVS-EVENT-COMPARATOR) | [Post](https://bulldog93.tistory.com/45) |
+| 미니 프로젝트 2 - MATE | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-MINI2_MATE) | [Post](https://bulldog93.tistory.com/46) |
+| 미니 프로젝트 3 - MACTA | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-MINI3_MACTA) | [Post](https://bulldog93.tistory.com/47) |
+| 최종 프로젝트 - ONDE | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ONDE) | [Post](https://bulldog93.tistory.com/48) |
+| 최종 프로젝트 - ARGUS | [Repository](https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ARGUS) | [Post](https://bulldog93.tistory.com/49) |
 
 </div>
 
