@@ -27,10 +27,6 @@ Welcome to the Bulldog's House! 🐶
   Vercel · 포트폴리오 &nbsp;·&nbsp; GitHub · 저장소 &nbsp;·&nbsp; GitHub Pages · 백업 블로그 &nbsp;·&nbsp; Tistory · 메인 블로그 &nbsp;·&nbsp; LinkedIn · 프로필
 </p>
 
-<p align="center">
-  Tistory가 불안해서 GitHub Pages에 백업 블로그를 만들어 뒀어요. 두 블로그 내용은 동일합니다.
-</p>
-
 <br>
 
 ## 🚀 Projects <a href="https://github.com/Hyeonseok93?tab=repositories">→ View all repositories</a>
