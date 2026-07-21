@@ -30,7 +30,7 @@ jobs:
         with:
           card: stats
           options: username=Hyeonseok93&show_icons=true&include_all_commits=true&all_time_contribs=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9
-          path: profile/stats.svg
+          path: .github/readme/stats/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (light)
@@ -38,7 +38,7 @@ jobs:
         with:
           card: stats
           options: username=Hyeonseok93&show_icons=true&include_all_commits=true&all_time_contribs=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=57606a
-          path: profile/stats-light.svg
+          path: .github/readme/stats/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (dark)
@@ -46,7 +46,7 @@ jobs:
         with:
           card: top-langs
           options: username=Hyeonseok93&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9
-          path: profile/top-langs.svg
+          path: .github/readme/stats/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (light)
@@ -54,17 +54,17 @@ jobs:
         with:
           card: top-langs
           options: username=Hyeonseok93&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000
-          path: profile/top-langs-light.svg
+          path: .github/readme/stats/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Normalize stat labels
-        run: sed -i -e 's/ (last year)//g' profile/stats.svg profile/stats-light.svg
+        run: sed -i -e 's/ (last year)//g' .github/readme/stats/stats.svg .github/readme/stats/stats-light.svg
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add .github/readme/stats/*.svg
           git diff --staged --quiet || git commit -m "Update README stats cards"
           git pull --rebase origin main
           git push
