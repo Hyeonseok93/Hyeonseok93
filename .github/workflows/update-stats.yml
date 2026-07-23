@@ -31,7 +31,7 @@ jobs:
           card: stats
           options: username=Hyeonseok93&show_icons=true&include_all_commits=true&all_time_contribs=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9
           path: .github/readme/stats/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT }}
 
       - name: Generate stats card (light)
         uses: stats-organization/github-readme-stats-action@v2
@@ -39,7 +39,7 @@ jobs:
           card: stats
           options: username=Hyeonseok93&show_icons=true&include_all_commits=true&all_time_contribs=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=57606a
           path: .github/readme/stats/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT }}
 
       - name: Generate top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
@@ -47,7 +47,7 @@ jobs:
           card: top-langs
           options: username=Hyeonseok93&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9
           path: .github/readme/stats/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT }}
 
       - name: Generate top languages card (light)
         uses: stats-organization/github-readme-stats-action@v2
@@ -55,7 +55,7 @@ jobs:
           card: top-langs
           options: username=Hyeonseok93&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000
           path: .github/readme/stats/top-langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT }}
 
       - name: Normalize stat labels
         run: sed -i -e 's/ (last year)//g' .github/readme/stats/stats.svg .github/readme/stats/stats-light.svg
