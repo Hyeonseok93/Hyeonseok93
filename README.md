@@ -92,7 +92,7 @@ Welcome to the Bulldog's House! 🐶
 <table>
   <tbody>
     <tr>
-      <td align="center" width="320">WebScoreBoard</td>
+      <td align="center" width="320">Web Score Board</td>
       <td align="center" width="200"><a href="https://github.com/Hyeonseok93/MINI_WebScoreBoard">Github Repo</a></td>
     </tr>
     <tr>
