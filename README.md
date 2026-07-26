@@ -75,7 +75,7 @@ Welcome to the Bulldog's House! 🐶
 <table>
   <tbody>
     <tr>
-      <td align="center" width="320">개인 프로젝트 - Code Canary</td>
+      <td align="center" width="320">Code Canary</td>
       <td align="center" width="200"><a href="https://github.com/Hyeonseok93/WEB_Code-Canary">Github Repo</a></td>
     </tr>
   </tbody>
@@ -92,11 +92,11 @@ Welcome to the Bulldog's House! 🐶
 <table>
   <tbody>
     <tr>
-      <td align="center" width="320">미니 프로젝트 - WebScoreBoard</td>
+      <td align="center" width="320">WebScoreBoard</td>
       <td align="center" width="200"><a href="https://github.com/Hyeonseok93/MINI_WebScoreBoard">Github Repo</a></td>
     </tr>
     <tr>
-      <td align="center" width="320">미니 프로젝트 - Monitor Coordinate System</td>
+      <td align="center" width="320">Monitor Coordinate System</td>
       <td align="center" width="200"><a href="https://github.com/Hyeonseok93/MINI_MonitorCoordinateSystem">Github Repo</a></td>
     </tr>
   </tbody>
