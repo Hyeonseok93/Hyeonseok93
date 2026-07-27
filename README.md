@@ -103,6 +103,10 @@ Welcome to the Bulldog's House! 🐶
       <td align="center" width="320">Color Picker</td>
       <td align="center" width="200"><a href="https://github.com/Hyeonseok93/MINI_ColorPicker">Github Repo</a></td>
     </tr>
+    <tr>
+      <td align="center" width="320">Image Zoomer</td>
+      <td align="center" width="200"><a href="https://github.com/Hyeonseok93/MINI_ImageZoomer">Github Repo</a></td>
+    </tr>
   </tbody>
 </table>
 
