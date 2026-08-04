@@ -111,6 +111,10 @@ Welcome to the Bulldog's House! 🐶
       <td align="center" width="320">Image Converter</td>
       <td align="center" width="200"><a href="https://github.com/Hyeonseok93/MINI_ImageConverter">Github Repo</a></td>
     </tr>
+    <tr>
+      <td align="center" width="320">Repeat Music Player</td>
+      <td align="center" width="200"><a href="https://github.com/Hyeonseok93/MINI_RepeatMusicPlayer">Github Repo</a></td>
+    </tr>
   </tbody>
 </table>
 
