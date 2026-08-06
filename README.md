@@ -76,7 +76,7 @@ Welcome to the Bulldog's House! 🐶
   <tbody>
     <tr>
       <td align="center" width="320">Code Canary</td>
-      <td align="center" width="200"><a href="https://github.com/Hyeonseok93/WEB_Code-Canary">Github Repo</a></td>
+      <td align="center" width="200"><a href="https://github.com/Hyeonseok93/WEB_Code-Canary">Github Repo</a> · <a href="https://bulldog93.tistory.com/58">Blog</a></td>
     </tr>
   </tbody>
 </table>
