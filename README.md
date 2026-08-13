@@ -84,6 +84,11 @@ Welcome to the Bulldog's House! 🐶
       <td align="center" width="280">CVE·OSV 취약점 인텔리전스 대시보드</td>
       <td align="center" width="180"><a href="https://github.com/Hyeonseok93/WEB_Code-Canary">Github Repo</a> · <a href="https://bulldog93.tistory.com/58">Blog</a></td>
     </tr>
+    <tr>
+      <td align="center" width="260">Patience Flashcard</td>
+      <td align="center" width="280">페이션스형 다층 암기 웹</td>
+      <td align="center" width="180"><a href="https://github.com/Hyeonseok93/WEB_Patience-Flashcard">Github Repo</a></td>
+    </tr>
   </tbody>
 </table>
 
