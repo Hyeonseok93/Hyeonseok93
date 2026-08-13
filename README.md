@@ -87,7 +87,7 @@ Welcome to the Bulldog's House! 🐶
     <tr>
       <td align="center" width="260">Patience Flashcard</td>
       <td align="center" width="280">페이션스형 다층 암기 웹</td>
-      <td align="center" width="180"><a href="https://github.com/Hyeonseok93/WEB_Patience-Flashcard">Github Repo</a></td>
+      <td align="center" width="180"><a href="https://github.com/Hyeonseok93/WEB_Patience-Flashcard">Github Repo</a> · <a href="https://bulldog93.tistory.com/59">Blog</a></td>
     </tr>
   </tbody>
 </table>
