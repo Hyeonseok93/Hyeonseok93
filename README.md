@@ -103,34 +103,22 @@ Welcome to the Bulldog's House! 🐶
 <table>
   <tbody>
     <tr>
-      <td align="center" width="260">Web Score Board</td>
-      <td align="center" width="280">보드게임용 웹 스코어보드</td>
-      <td align="center" width="180"><a href="https://github.com/Hyeonseok93/MINI_WebScoreBoard">Github Repo</a></td>
+      <td align="center" width="280">Web Score Board<br>보드게임용 웹 스코어보드</td>
+      <td align="center" width="140"><a href="https://github.com/Hyeonseok93/MINI_WebScoreBoard">Github Repo</a></td>
+      <td align="center" width="280">Monitor Coordinate System<br>모니터 좌표·거리 측정 유틸</td>
+      <td align="center" width="140"><a href="https://github.com/Hyeonseok93/MINI_MonitorCoordinateSystem">Github Repo</a></td>
     </tr>
     <tr>
-      <td align="center" width="260">Monitor Coordinate System</td>
-      <td align="center" width="280">모니터 좌표·거리 측정 유틸</td>
-      <td align="center" width="180"><a href="https://github.com/Hyeonseok93/MINI_MonitorCoordinateSystem">Github Repo</a></td>
+      <td align="center" width="280">Color Picker<br>픽셀 돋보기·색상 피커</td>
+      <td align="center" width="140"><a href="https://github.com/Hyeonseok93/MINI_ColorPicker">Github Repo</a></td>
+      <td align="center" width="280">Image Zoomer<br>픽셀 이미지 정밀 확대 뷰어</td>
+      <td align="center" width="140"><a href="https://github.com/Hyeonseok93/MINI_ImageZoomer">Github Repo</a></td>
     </tr>
     <tr>
-      <td align="center" width="260">Color Picker</td>
-      <td align="center" width="280">픽셀 돋보기·색상 피커</td>
-      <td align="center" width="180"><a href="https://github.com/Hyeonseok93/MINI_ColorPicker">Github Repo</a></td>
-    </tr>
-    <tr>
-      <td align="center" width="260">Image Zoomer</td>
-      <td align="center" width="280">픽셀 이미지 정밀 확대 뷰어</td>
-      <td align="center" width="180"><a href="https://github.com/Hyeonseok93/MINI_ImageZoomer">Github Repo</a></td>
-    </tr>
-    <tr>
-      <td align="center" width="260">Image Converter</td>
-      <td align="center" width="280">이미지 일괄 변환·최적화</td>
-      <td align="center" width="180"><a href="https://github.com/Hyeonseok93/MINI_ImageConverter">Github Repo</a></td>
-    </tr>
-    <tr>
-      <td align="center" width="260">Repeat Music Player</td>
-      <td align="center" width="280">구간 반복 재생·오디오 병합</td>
-      <td align="center" width="180"><a href="https://github.com/Hyeonseok93/MINI_RepeatMusicPlayer">Github Repo</a></td>
+      <td align="center" width="280">Image Converter<br>이미지 일괄 변환·최적화</td>
+      <td align="center" width="140"><a href="https://github.com/Hyeonseok93/MINI_ImageConverter">Github Repo</a></td>
+      <td align="center" width="280">Repeat Music Player<br>구간 반복 재생·오디오 병합</td>
+      <td align="center" width="140"><a href="https://github.com/Hyeonseok93/MINI_RepeatMusicPlayer">Github Repo</a></td>
     </tr>
   </tbody>
 </table>
