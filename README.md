@@ -112,7 +112,7 @@ Welcome to the Bulldog's House! 🐶
     <tr>
       <td align="center" width="88" nowrap>[Chrome]</td>
       <td align="center" width="260"><span nowrap>Shorts Alert</span><br><span nowrap>숏폼 시청 시간 모니터 &amp; 알림</span></td>
-      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ShortsAlert">Github&nbsp;Repo</a></td>
+      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ShortsAlert">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/66">Blog</a></td>
       <td align="center" width="88" nowrap>[Desktop]</td>
       <td align="center" width="260"><span nowrap>Repeat Music Player</span><br><span nowrap>구간 반복 재생·오디오 병합</span></td>
       <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_RepeatMusicPlayer">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/65">Blog</a></td>
