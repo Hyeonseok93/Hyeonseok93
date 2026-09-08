@@ -111,7 +111,7 @@ Welcome to the Bulldog's House! 🐶
   <tbody>
     <tr>
       <td align="center" width="88" nowrap>[Desktop]</td>
-      <td align="center" width="260"><span nowrap>NetSentinel</span><br><span nowrap>Windows 개인용 네트워크 모니터</span></td>
+      <td align="center" width="260"><span nowrap>NetSentinel</span><br><span nowrap>윈도우 개인용 네트워크 모니터</span></td>
       <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_NetSentinel">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/67">Blog</a></td>
       <td align="center" width="88" nowrap>[Chrome]</td>
       <td align="center" width="260"><span nowrap>Shorts Alert</span><br><span nowrap>숏폼 시청 시간 모니터 &amp; 알림</span></td>
