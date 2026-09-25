@@ -60,6 +60,14 @@ jobs:
       - name: Normalize stat labels
         run: sed -i -e 's/ (last year)//g' .github/readme/stats/stats.svg .github/readme/stats/stats-light.svg
 
+      - name: Reject rate-limit error cards
+        run: |
+          if grep -R -n -E "Something went wrong|rate limiting" .github/readme/stats/*.svg; then
+            echo "::error::Stats API returned error cards — leave previous SVGs untouched"
+            git checkout -- .github/readme/stats/
+            exit 1
+          fi
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

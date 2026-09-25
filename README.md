@@ -162,14 +162,14 @@ Welcome to the Bulldog's House! 🐶
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats/stats.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="./.github/readme/stats/stats-light.svg?v=1">
-    <img src="./.github/readme/stats/stats.svg?v=2" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats/stats.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="./.github/readme/stats/stats-light.svg?v=2">
+    <img src="./.github/readme/stats/stats.svg?v=3" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats/top-langs.svg?v=5">
-    <source media="(prefers-color-scheme: light)" srcset="./.github/readme/stats/top-langs-light.svg?v=1">
-    <img src="./.github/readme/stats/top-langs.svg?v=5" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/readme/stats/top-langs.svg?v=6">
+    <source media="(prefers-color-scheme: light)" srcset="./.github/readme/stats/top-langs-light.svg?v=2">
+    <img src="./.github/readme/stats/top-langs.svg?v=6" alt="Top Languages" />
   </picture>
 </div><br>
 
