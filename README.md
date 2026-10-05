@@ -20,15 +20,11 @@ Welcome to the Bulldog's House! 🐶
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://hyeonseok93-portfolio.vercel.app/"><img src="./.github/readme/badges/contact-vercel.png?v=3" alt="Vercel"/></a>&#8194;<a href="https://github.com/Hyeonseok93"><img src="./.github/readme/badges/contact-github.png?v=1" alt="GitHub"/></a>&#8194;<a href="https://hyeonseok93.github.io/"><img src="./.github/readme/badges/contact-githubpages.png?v=5" alt="GitHub Pages"/></a>&#8194;<a href="https://bulldog93.tistory.com/"><img src="./.github/readme/badges/contact-tistory.png?v=3" alt="Tistory"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok93"><img src="./.github/readme/badges/contact-linkedin.png?v=3" alt="LinkedIn"/></a>
+  <a href="https://hyeonseok93-portfolio.vercel.app/"><img src="./.github/readme/badges/contact-vercel.png?v=3" alt="Vercel"/></a>&#8194;<a href="https://github.com/Hyeonseok93"><img src="./.github/readme/badges/contact-github.png?v=1" alt="GitHub"/></a>&#8194;<a href="https://hyeonseok93.github.io/"><img src="./.github/readme/badges/contact-githubpages.png?v=5" alt="GitHub Pages"/></a>&#8194;<a href="https://www.linkedin.com/in/hyeonseok93"><img src="./.github/readme/badges/contact-linkedin.png?v=3" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
-  Vercel · 포트폴리오 &nbsp;·&nbsp; GitHub · 저장소 &nbsp;·&nbsp; GitHub Pages · 백업 블로그 &nbsp;·&nbsp; Tistory · 메인 블로그 &nbsp;·&nbsp; LinkedIn · 프로필
-</p>
-
-<p align="center">
-  Tistory가 불안해서 GitHub Pages에 백업 블로그를 만들어 뒀어요. 두 블로그 내용은 동일합니다.
+  Vercel · 포트폴리오 &nbsp;·&nbsp; GitHub · 저장소 &nbsp;·&nbsp; GitHub Pages · 블로그 &nbsp;·&nbsp; LinkedIn · 프로필
 </p>
 
 <br>
@@ -45,31 +41,31 @@ Welcome to the Bulldog's House! 🐶
       <td align="center" width="72" nowrap>[Web]</td>
       <td align="center" width="300" nowrap>루키즈 5기 미니 프로젝트 1 - CVS</td>
       <td align="center" width="320" nowrap>편의점 행사 상품 비교 + AI RAG 챗봇</td>
-      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-MINI1_CVS-EVENT-COMPARATOR">Github Repo</a> · <a href="https://bulldog93.tistory.com/45">Blog</a></td>
+      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-MINI1_CVS-EVENT-COMPARATOR">Github Repo</a> · <a href="https://hyeonseok93.github.io/posts/rookies-showcase-mini1/">Blog</a></td>
     </tr>
     <tr>
       <td align="center" width="72" nowrap>[Web]</td>
       <td align="center" width="300" nowrap>루키즈 5기 미니 프로젝트 2 - MATE</td>
       <td align="center" width="320" nowrap>스터디·프로젝트 팀 매칭 플랫폼</td>
-      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-MINI2_MATE">Github Repo</a> · <a href="https://bulldog93.tistory.com/46">Blog</a></td>
+      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-MINI2_MATE">Github Repo</a> · <a href="https://hyeonseok93.github.io/posts/rookies-showcase-mini2/">Blog</a></td>
     </tr>
     <tr>
       <td align="center" width="72" nowrap>[Web]</td>
       <td align="center" width="300" nowrap>루키즈 5기 미니 프로젝트 3 - MACTA</td>
       <td align="center" width="320" nowrap>동시성 제어 라이브 경매 플랫폼</td>
-      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-MINI3_MACTA">Github Repo</a> · <a href="https://bulldog93.tistory.com/47">Blog</a></td>
+      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-MINI3_MACTA">Github Repo</a> · <a href="https://hyeonseok93.github.io/posts/rookies-showcase-mini3/">Blog</a></td>
     </tr>
     <tr>
       <td align="center" width="72" nowrap>[Web]</td>
       <td align="center" width="300" nowrap>루키즈 5기 최종 프로젝트 - ONDE</td>
       <td align="center" width="320" nowrap>취약점 진단을 위한 여행 플랫폼</td>
-      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ONDE">Github Repo</a> · <a href="https://bulldog93.tistory.com/48">Blog</a></td>
+      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ONDE">Github Repo</a> · <a href="https://hyeonseok93.github.io/posts/rookies-showcase-final1/">Blog</a></td>
     </tr>
     <tr>
       <td align="center" width="72" nowrap>[Web]</td>
       <td align="center" width="300" nowrap>루키즈 5기 최종 프로젝트 - ARGUS</td>
       <td align="center" width="320" nowrap>자동 취약점 진단을 수행하는 플랫폼</td>
-      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ARGUS">Github Repo</a> · <a href="https://bulldog93.tistory.com/49">Blog</a></td>
+      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/SK-Rookies5-FINAL_ARGUS">Github Repo</a> · <a href="https://hyeonseok93.github.io/posts/rookies-showcase-final2/">Blog</a></td>
     </tr>
   </tbody>
 </table>
@@ -88,13 +84,13 @@ Welcome to the Bulldog's House! 🐶
       <td align="center" width="72" nowrap>[Web]</td>
       <td align="center" width="240" nowrap>Code Canary</td>
       <td align="center" width="320" nowrap>CVE·OSV 취약점 인텔리전스 대시보드</td>
-      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/WEB_Code-Canary">Github Repo</a> · <a href="https://bulldog93.tistory.com/58">Blog</a></td>
+      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/WEB_Code-Canary">Github Repo</a> · <a href="https://hyeonseok93.github.io/posts/code-canary/">Blog</a></td>
     </tr>
     <tr>
       <td align="center" width="72" nowrap>[Web]</td>
       <td align="center" width="240" nowrap>Patience Flashcard</td>
       <td align="center" width="320" nowrap>페이션스형 다층 암기 웹</td>
-      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/WEB_Patience-Flashcard">Github Repo</a> · <a href="https://bulldog93.tistory.com/59">Blog</a></td>
+      <td align="center" width="200" nowrap><a href="https://github.com/Hyeonseok93/WEB_Patience-Flashcard">Github Repo</a> · <a href="https://hyeonseok93.github.io/posts/patience-flashcard/">Blog</a></td>
     </tr>
   </tbody>
 </table>
@@ -112,34 +108,34 @@ Welcome to the Bulldog's House! 🐶
     <tr>
       <td align="center" width="88" nowrap>[Desktop]</td>
       <td align="center" width="260"><span nowrap>NetSentinel</span><br><span nowrap>윈도우 개인용 네트워크 모니터</span></td>
-      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_NetSentinel">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/67">Blog</a></td>
+      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_NetSentinel">Github&nbsp;Repo</a><br><a href="https://hyeonseok93.github.io/posts/mini-net-sentinel/">Blog</a></td>
       <td align="center" width="88" nowrap>[Chrome]</td>
       <td align="center" width="260"><span nowrap>Shorts Alert</span><br><span nowrap>숏폼 시청 시간 모니터 &amp; 알림</span></td>
-      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ShortsAlert">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/66">Blog</a></td>
+      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ShortsAlert">Github&nbsp;Repo</a><br><a href="https://hyeonseok93.github.io/posts/mini-shorts-alert/">Blog</a></td>
     </tr>
     <tr>
       <td align="center" width="88" nowrap>[Desktop]</td>
       <td align="center" width="260"><span nowrap>Repeat Music Player</span><br><span nowrap>구간 반복 재생·오디오 병합</span></td>
-      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_RepeatMusicPlayer">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/65">Blog</a></td>
+      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_RepeatMusicPlayer">Github&nbsp;Repo</a><br><a href="https://hyeonseok93.github.io/posts/mini-repeat-music-player/">Blog</a></td>
       <td align="center" width="88" nowrap>[Desktop]</td>
       <td align="center" width="260"><span nowrap>Image Zoomer</span><br><span nowrap>픽셀 이미지 정밀 확대 뷰어</span></td>
-      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ImageZoomer">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/64">Blog</a></td>
+      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ImageZoomer">Github&nbsp;Repo</a><br><a href="https://hyeonseok93.github.io/posts/mini-image-zoomer/">Blog</a></td>
     </tr>
     <tr>
       <td align="center" width="88" nowrap>[Desktop]</td>
       <td align="center" width="260"><span nowrap>Monitor Coordinate System</span><br><span nowrap>모니터 좌표·거리 측정 유틸</span></td>
-      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_MonitorCoordinateSystem">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/63">Blog</a></td>
+      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_MonitorCoordinateSystem">Github&nbsp;Repo</a><br><a href="https://hyeonseok93.github.io/posts/mini-monitor-coordinate-system/">Blog</a></td>
       <td align="center" width="88" nowrap>[Desktop]</td>
       <td align="center" width="260"><span nowrap>Image Converter</span><br><span nowrap>이미지 일괄 변환·최적화</span></td>
-      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ImageConverter">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/62">Blog</a></td>
+      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ImageConverter">Github&nbsp;Repo</a><br><a href="https://hyeonseok93.github.io/posts/mini-image-converter/">Blog</a></td>
     </tr>
     <tr>
       <td align="center" width="88" nowrap>[Desktop]</td>
       <td align="center" width="260"><span nowrap>Color Picker</span><br><span nowrap>픽셀 돋보기·색상 피커</span></td>
-      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ColorPicker">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/61">Blog</a></td>
+      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_ColorPicker">Github&nbsp;Repo</a><br><a href="https://hyeonseok93.github.io/posts/mini-color-picker/">Blog</a></td>
       <td align="center" width="88" nowrap>[Web]</td>
       <td align="center" width="260"><span nowrap>Web Score Board</span><br><span nowrap>보드게임용 웹 스코어보드</span></td>
-      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_WebScoreBoard">Github&nbsp;Repo</a><br><a href="https://bulldog93.tistory.com/60">Blog</a></td>
+      <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_WebScoreBoard">Github&nbsp;Repo</a><br><a href="https://hyeonseok93.github.io/posts/mini-web-score-board/">Blog</a></td>
     </tr>
   </tbody>
 </table>
