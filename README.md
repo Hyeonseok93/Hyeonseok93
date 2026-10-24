@@ -107,7 +107,7 @@ Welcome to the Bulldog's House! 🐶
   <tbody>
     <tr>
       <td align="center" width="88" nowrap>[Web]</td>
-      <td align="center" width="260"><span nowrap>Piste</span><br><span nowrap>운동 스케줄·다음 무게 추천</span></td>
+      <td align="center" width="260"><span nowrap>Piste</span><br><span nowrap>운동 스케줄·세트 기록</span></td>
       <td align="center" width="120" nowrap><a href="https://github.com/Hyeonseok93/MINI_Piste">Github&nbsp;Repo</a><br><a href="https://hyeonseok93.github.io/posts/mini-piste/">Blog</a></td>
       <td align="center" width="88" nowrap>[Desktop]</td>
       <td align="center" width="260"><span nowrap>Ledger</span><br><span nowrap>오프라인 고정비·저축 가계부</span></td>
